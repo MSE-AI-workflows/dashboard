@@ -181,7 +181,7 @@ header h1 {
 }
 
 #categories-charts > div, #coi-charts > div {
-    min-height: 550px;
+    min-height: 600px;
     overflow: visible;
     width: 100%;
 }

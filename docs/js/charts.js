@@ -119,26 +119,20 @@ function createCollaboratorBarChart(data, elementId) {
     const div = document.createElement('div');
     div.id = elementId;
     div.style.width = '100%';
-    div.style.minWidth = '500px';
+    div.style.minWidth = '600px';
     container.appendChild(div);
 
     const top10 = data.top_collaborators.slice(0, 10);
 
-    // Truncate long names for display
-    const truncateName = (name) => {
-        return name.length > 20 ? name.substring(0, 17) + '...' : name;
-    };
-
     const trace = {
         type: 'bar',
         x: top10.map(c => c.collaboration_count),
-        y: top10.map(c => truncateName(c.name)),
+        y: top10.map(c => c.name),
         orientation: 'h',
         marker: {
             color: top10.map(c => c.institution.includes('North Carolina State') ? '#CC0000' : '#4444FF')
         },
-        hovertemplate: '<b>%{customdata}</b><br>Papers: %{x}<extra></extra>',
-        customdata: top10.map(c => c.name)
+        hovertemplate: '<b>%{y}</b><br>Papers: %{x}<extra></extra>'
     };
 
     const layout = {
@@ -154,11 +148,12 @@ function createCollaboratorBarChart(data, elementId) {
         },
         yaxis: { 
             autorange: 'reversed',
-            tickfont: { size: 10 }
+            tickfont: { size: 11 }
         },
-        height: 450,
-        autosize: true,
-        margin: { l: 150, r: 40, t: 60, b: 60 }
+        height: 500,
+        width: 600,
+        autosize: false,
+        margin: { l: 180, r: 60, t: 80, b: 60 }
     };
 
     const config = {
