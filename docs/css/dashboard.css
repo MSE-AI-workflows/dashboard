@@ -339,12 +339,6 @@ header h1 {
 }
 
 /* Responsive */
-@media (max-width: 1200px) {
-    #categories-charts, #coi-charts {
-        grid-template-columns: 1fr;
-    }
-}
-
 @media (max-width: 768px) {
     .container {
         padding: 10px;
