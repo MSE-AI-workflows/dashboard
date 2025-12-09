@@ -119,7 +119,7 @@ function createCollaboratorBarChart(data, elementId) {
     const div = document.createElement('div');
     div.id = elementId;
     div.style.width = '100%';
-    div.style.minWidth = '600px';
+    div.style.minWidth = '700px';
     container.appendChild(div);
 
     const top10 = data.top_collaborators.slice(0, 10);
@@ -151,9 +151,9 @@ function createCollaboratorBarChart(data, elementId) {
             tickfont: { size: 11 }
         },
         height: 500,
-        width: 600,
+        width: 700,
         autosize: false,
-        margin: { l: 180, r: 60, t: 80, b: 60 }
+        margin: { l: 180, r: 80, t: 80, b: 60 }
     };
 
     const config = {
