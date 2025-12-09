@@ -49,7 +49,7 @@ function createCategoryPieChart(data, elementId) {
         height: 500,
         autosize: true,
         showlegend: false,
-        margin: { l: 80, r: 80, t: 80, b: 80 },
+        margin: { l: 100, r: 100, t: 80, b: 80 },
         paper_bgcolor: 'white',
         plot_bgcolor: 'white'
     };
@@ -211,10 +211,10 @@ function createInternalExternalPie(data, elementId) {
             x: 0.5,
             xanchor: 'center'
         },
-        height: 450,
+        height: 500,
         autosize: true,
         showlegend: false,
-        margin: { l: 60, r: 60, t: 60, b: 60 },
+        margin: { l: 100, r: 100, t: 80, b: 80 },
         paper_bgcolor: 'white',
         plot_bgcolor: 'white'
     };
