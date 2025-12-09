@@ -9,7 +9,6 @@ function createCategoryPieChart(data, elementId) {
     const div = document.createElement('div');
     div.id = elementId;
     div.style.width = '100%';
-    div.style.minWidth = '600px';
     container.appendChild(div);
 
     const labels = data.categories.map(c => formatCategoryName(c.category));
@@ -22,7 +21,7 @@ function createCategoryPieChart(data, elementId) {
         textposition: 'auto',
         textinfo: 'label+percent',
         textfont: {
-            size: 11
+            size: 10
         },
         hovertemplate: '<b>%{label}</b><br>Papers: %{value}<br>%{percent}<extra></extra>',
         marker: {
@@ -42,11 +41,10 @@ function createCategoryPieChart(data, elementId) {
             x: 0.5,
             xanchor: 'center'
         },
-        height: 550,
-        width: 600,
-        autosize: false,
+        height: 500,
+        autosize: true,
         showlegend: false,
-        margin: { l: 120, r: 120, t: 80, b: 80 },
+        margin: { l: 100, r: 100, t: 80, b: 80 },
         paper_bgcolor: 'white',
         plot_bgcolor: 'white'
     };
@@ -119,7 +117,6 @@ function createCollaboratorBarChart(data, elementId) {
     const div = document.createElement('div');
     div.id = elementId;
     div.style.width = '100%';
-    div.style.minWidth = '700px';
     container.appendChild(div);
 
     const top10 = data.top_collaborators.slice(0, 10);
@@ -148,12 +145,11 @@ function createCollaboratorBarChart(data, elementId) {
         },
         yaxis: { 
             autorange: 'reversed',
-            tickfont: { size: 11 }
+            tickfont: { size: 10 }
         },
         height: 500,
-        width: 700,
-        autosize: false,
-        margin: { l: 180, r: 80, t: 80, b: 60 }
+        autosize: true,
+        margin: { l: 160, r: 40, t: 80, b: 60 }
     };
 
     const config = {
@@ -169,7 +165,6 @@ function createInternalExternalPie(data, elementId) {
     const div = document.createElement('div');
     div.id = elementId;
     div.style.width = '100%';
-    div.style.minWidth = '600px';
     container.appendChild(div);
 
     const overview = data.overview;
@@ -182,7 +177,7 @@ function createInternalExternalPie(data, elementId) {
         insidetextorientation: 'radial',
         textinfo: 'label+percent',
         textfont: {
-            size: 14,
+            size: 12,
             color: 'white'
         },
         marker: {
@@ -203,11 +198,10 @@ function createInternalExternalPie(data, elementId) {
             x: 0.5,
             xanchor: 'center'
         },
-        height: 550,
-        width: 600,
-        autosize: false,
+        height: 500,
+        autosize: true,
         showlegend: false,
-        margin: { l: 120, r: 120, t: 80, b: 80 },
+        margin: { l: 80, r: 80, t: 80, b: 80 },
         paper_bgcolor: 'white',
         plot_bgcolor: 'white'
     };
