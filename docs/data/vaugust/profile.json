@@ -1,0 +1,15 @@
+{
+  "unity_id": "vaugust",
+  "name": "Veronica Augustyn",
+  "first_name": "Veronica",
+  "last_name": "Augustyn",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5040566890",
+  "stats": {
+    "total_publications": 77,
+    "recent_publications": 45,
+    "total_collaborators": 141,
+    "total_categories": 7,
+    "external_percentage": 78.7
+  }
+}

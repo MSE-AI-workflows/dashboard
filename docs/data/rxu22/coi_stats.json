@@ -1,0 +1,262 @@
+{
+  "overview": {
+    "total_collaborators": 91,
+    "internal_count": 6,
+    "internal_percentage": 6.593406593406594,
+    "external_count": 85,
+    "external_percentage": 93.4065934065934,
+    "network_density": 0.186,
+    "recent_collaborations_2years": 20
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5022493111",
+      "name": "Harold Y. Hwang",
+      "institution": "Stanford University",
+      "node_type": "external",
+      "collaboration_count": 11,
+      "years": "2025,2024,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5050740079",
+      "name": "Lane W. Martin",
+      "institution": "University of California, Berkeley",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2024,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022018174",
+      "name": "Kevin J. Crust",
+      "institution": "Stanford University",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5089913117",
+      "name": "Yu\u2010Tsun Shao",
+      "institution": "Southern California University for Professional Studies",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2025,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5014493844",
+      "name": "R. Ramesh",
+      "institution": "Indian Institute of Science Bangalore",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5042016235",
+      "name": "David A. Muller",
+      "institution": "Cornell University",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5052170812",
+      "name": "Aarushi Khandelwal",
+      "institution": "Stanford University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100411665",
+      "name": "Yin Liu",
+      "institution": "University of California, Berkeley",
+      "node_type": "faculty",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100414546",
+      "name": "Jiarui Li",
+      "institution": "SLAC National Accelerator Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5018565864",
+      "name": "Hua Zhou",
+      "institution": "Argonne National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5016622098",
+      "name": "Alexey B. Kuzmenko",
+      "institution": "University of Geneva",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5009887788",
+      "name": "Swathi Chandrika",
+      "institution": "Cornell University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5032927089",
+      "name": "Sujit Das",
+      "institution": "University of California, Berkeley",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5036532370",
+      "name": "Kinnary Patel",
+      "institution": "University of Arkansas at Fayetteville",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5046482159",
+      "name": "Stephanie N. Gilbert Corder",
+      "institution": "Lawrence Berkeley National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047307512",
+      "name": "Varun Harbola",
+      "institution": "SLAC National Accelerator Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065355043",
+      "name": "L. Bella\u00efche",
+      "institution": "University of Arkansas at Fayetteville",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5076194717",
+      "name": "Hans A. Bechtel",
+      "institution": "Lawrence Berkeley National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5056764571",
+      "name": "Javier Junquera",
+      "institution": "Universidad de Cantabria",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5114623606",
+      "name": "Harikrishnan KP",
+      "institution": "Cornell University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2025"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "University of California, Berkeley",
+      "collaborator_count": 17,
+      "paper_count": 17
+    },
+    {
+      "institution": "University of Geneva",
+      "collaborator_count": 8,
+      "paper_count": 16
+    },
+    {
+      "institution": "SLAC National Accelerator Laboratory",
+      "collaborator_count": 7,
+      "paper_count": 11
+    },
+    {
+      "institution": "Lawrence Berkeley National Laboratory",
+      "collaborator_count": 7,
+      "paper_count": 11
+    },
+    {
+      "institution": "Stanford University",
+      "collaborator_count": 7,
+      "paper_count": 11
+    },
+    {
+      "institution": "University of Arkansas at Fayetteville",
+      "collaborator_count": 6,
+      "paper_count": 9
+    },
+    {
+      "institution": "Cornell University",
+      "collaborator_count": 5,
+      "paper_count": 7
+    },
+    {
+      "institution": "Argonne National Laboratory",
+      "collaborator_count": 5,
+      "paper_count": 8
+    },
+    {
+      "institution": "Lehigh University",
+      "collaborator_count": 5,
+      "paper_count": 5
+    },
+    {
+      "institution": "Universidad de Cantabria",
+      "collaborator_count": 3,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 22,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 44,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 64,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 42,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 62,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 78
+    },
+    {
+      "country": "Other",
+      "count": 13
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "unity_id": "fso",
+  "name": "Franky So",
+  "first_name": "Franky",
+  "last_name": "So",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5084373488",
+  "stats": {
+    "total_publications": 198,
+    "recent_publications": 36,
+    "total_collaborators": 140,
+    "total_categories": 6,
+    "external_percentage": 49.3
+  }
+}

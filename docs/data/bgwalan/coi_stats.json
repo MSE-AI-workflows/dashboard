@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 291,
+    "internal_count": 20,
+    "internal_percentage": 6.872852233676976,
+    "external_count": 271,
+    "external_percentage": 93.12714776632302,
+    "network_density": 0.053,
+    "recent_collaborations_2years": 18
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5025767396",
+      "name": "Arun Devaraj",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 29,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5101701537",
+      "name": "Rajarshi Banerjee",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 20,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5054230545",
+      "name": "Mayur Pole",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 19,
+      "years": "2025,2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5003900933",
+      "name": "Joshua Silverstein",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 17,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5080192569",
+      "name": "Sriswaroop Dasari",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 17,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5071814036",
+      "name": "Suveen N. Mathaudhu",
+      "institution": "Colorado School of Mines",
+      "node_type": "external",
+      "collaboration_count": 12,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100610985",
+      "name": "Tianhao Wang",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 12,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5012572835",
+      "name": "Vishal Soni",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 11,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5038141473",
+      "name": "Anqi Yu",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 11,
+      "years": "2025,2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5089049023",
+      "name": "Abhinav Jagetia",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 11,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5009921172",
+      "name": "Elizabeth J. Kautz",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5015063874",
+      "name": "Matthew J. Olszta",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5083659970",
+      "name": "Miao Song",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5074448953",
+      "name": "Xiaolong Ma",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 9,
+      "years": "2025,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5005092091",
+      "name": "St\u00e9phane Gorsse",
+      "institution": "Institut de Chimie de la Mati\u00e8re Condens\u00e9e de Bordeaux",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5012489635",
+      "name": "Harpreet Singh Arora",
+      "institution": "Shiv Nadar University",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2025,2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022477062",
+      "name": "Abhishek Sharma",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5053531698",
+      "name": "Mert Efe",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2025,2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061381914",
+      "name": "Rajiv S. Mishra",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5062759205",
+      "name": "Juli\u00e1n Escobar",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2025,2024,2023,2022,2021"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Pacific Northwest National Laboratory",
+      "collaborator_count": 72,
+      "paper_count": 148
+    },
+    {
+      "institution": "University of North Texas",
+      "collaborator_count": 27,
+      "paper_count": 87
+    },
+    {
+      "institution": "Unknown",
+      "collaborator_count": 16,
+      "paper_count": 16
+    },
+    {
+      "institution": "Argonne National Laboratory",
+      "collaborator_count": 14,
+      "paper_count": 16
+    },
+    {
+      "institution": "Battelle",
+      "collaborator_count": 11,
+      "paper_count": 13
+    },
+    {
+      "institution": "Oak Ridge National Laboratory",
+      "collaborator_count": 10,
+      "paper_count": 15
+    },
+    {
+      "institution": "Shiv Nadar University",
+      "collaborator_count": 10,
+      "paper_count": 19
+    },
+    {
+      "institution": "Pennsylvania State University",
+      "collaborator_count": 8,
+      "paper_count": 8
+    },
+    {
+      "institution": "Federal University of Technology",
+      "collaborator_count": 6,
+      "paper_count": 6
+    },
+    {
+      "institution": "Ernst Ruska Centre",
+      "collaborator_count": 5,
+      "paper_count": 6
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 165,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 227,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 200,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 216,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 150,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 131,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 230
+    },
+    {
+      "country": "Other",
+      "count": 61
+    }
+  ]
+}

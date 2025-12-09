@@ -1,0 +1,217 @@
+{
+  "overview": {
+    "total_collaborators": 25,
+    "internal_count": 20,
+    "internal_percentage": 80.0,
+    "external_count": 5,
+    "external_percentage": 20.0,
+    "network_density": 0.397,
+    "recent_collaborations_2years": 8
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5071745205",
+      "name": "Abhichart Krissanaprasit",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 6,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5083437288",
+      "name": "Ming Gao",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5117283240",
+      "name": "Mahshid Hosseini",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5053908437",
+      "name": "Ashley C. Brown",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5021870562",
+      "name": "Nikolay Frick",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5041211740",
+      "name": "Aryssa Simpson",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5011753158",
+      "name": "Daniel M. Dupont",
+      "institution": "Aarhus University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5052224803",
+      "name": "Sahil Pontula",
+      "institution": "Massachusetts Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5053011278",
+      "name": "Damien Guilbaud",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5001394769",
+      "name": "Carson M. Key",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022703051",
+      "name": "Emily Mihalko",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5072940644",
+      "name": "J\u00f8rgen Kjems",
+      "institution": "Aarhus University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5104798467",
+      "name": "Katherine Meinhold",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5102930331",
+      "name": "Jennifer Sollinger",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5067360195",
+      "name": "Vahid Rahmanian",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5038397498",
+      "name": "Tahira Pirzada",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5027347155",
+      "name": "Austin Miles",
+      "institution": "North Carolina School of Science and Mathematics",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5041205069",
+      "name": "Kristen Froehlich",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5058499082",
+      "name": "Ebbe Sloth Andersen",
+      "institution": "Aarhus University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5074443446",
+      "name": "Lilian C. Hsiao",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2021"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Aarhus University",
+      "collaborator_count": 3,
+      "paper_count": 5
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "North Carolina School of Science and Mathematics",
+      "collaborator_count": 1,
+      "paper_count": 1
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2021,
+      "papers": 26,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 19,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 19,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 23
+    },
+    {
+      "country": "Other",
+      "count": 2
+    }
+  ]
+}

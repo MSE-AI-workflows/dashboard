@@ -1,0 +1,15 @@
+{
+  "unity_id": "spontak",
+  "name": "Richard Spontak",
+  "first_name": "Richard",
+  "last_name": "Spontak",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5091772994",
+  "stats": {
+    "total_publications": 277,
+    "recent_publications": 27,
+    "total_collaborators": 76,
+    "total_categories": 5,
+    "external_percentage": 63.2
+  }
+}

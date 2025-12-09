@@ -1,0 +1,409 @@
+[
+  {
+    "doi": "10.26434/chemrxiv-2025-mdtsm-v2",
+    "title": "Robust Learning from Literature Data: Model Generalizability and Uncertainty for Predicting Conjugated Polymer Solution Conformation",
+    "year": 2025,
+    "journal": "Unknown",
+    "authors": [
+      "Sina Dehghan-Toranposhti",
+      "Mohannad Alghamdi",
+      "Avery Smith",
+      "Martin Seifrid"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.26434/chemrxiv-2025-mdtsm",
+    "title": "Robust Learning from Literature Data: Model Generalizability and Uncertainty for Predicting Conjugated Polymer Solution Conformation",
+    "year": 2025,
+    "journal": "Unknown",
+    "authors": [
+      "Sina Dehghan-Toranposhti",
+      "Mohannad Alghamdi",
+      "Avery Smith",
+      "Martin Seifrid"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41467-025-59231-1",
+    "title": "Science acceleration and accessibility with self-driving labs",
+    "year": 2025,
+    "journal": "NATURE COMMUNICATIONS",
+    "authors": [
+      "Richard B. Canty",
+      "Jeffrey A. Bennett",
+      "Keith A. Brown",
+      "Tonio Buonassisi",
+      "Sergei V. Kalinin",
+      "John R. Kitchin",
+      "Benji Maruyama",
+      "R. G. Moore",
+      "Joshua Schrier",
+      "Martin Seifrid"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.26434/chemrxiv-2024-d20px",
+    "title": "Beyond Molecular Structure: Critically Assessing Machine Learning for Designing Organic Photovoltaic Materials and Devices",
+    "year": 2024,
+    "journal": "Unknown",
+    "authors": [
+      "Martin Seifrid",
+      "Stanley Lo",
+      "Dylan G. Choi",
+      "Gary Tom",
+      "My Linh Le",
+      "Kunyu Li",
+      "Rahul Sankar",
+      "Hoai\u2010Thanh Vuong",
+      "Hiba Wakidi",
+      "Ahra Yi"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1039/d4ta01942c",
+    "title": "Beyond molecular structure: critically assessing machine learning for designing organic photovoltaic materials and devices",
+    "year": 2024,
+    "journal": "JOURNAL OF MATERIALS CHEMISTRY A",
+    "authors": [
+      "Martin Seifrid",
+      "Stanley Lo",
+      "Dylan G. Choi",
+      "Gary Tom",
+      "My Linh Le",
+      "Kunyu Li",
+      "Rahul Sankar",
+      "Hoai\u2010Thanh Vuong",
+      "Hiba Wakidi",
+      "Ahra Yi"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.26434/chemrxiv-2024-d20px-v2",
+    "title": "Beyond Molecular Structure: Critically Assessing Machine Learning for Designing Organic Photovoltaic Materials and Devices",
+    "year": 2024,
+    "journal": "Unknown",
+    "authors": [
+      "Martin Seifrid",
+      "Stanley Lo",
+      "Dylan G. Choi",
+      "Gary Tom",
+      "My Linh Le",
+      "Kunyu Li",
+      "Rahul Sankar",
+      "Hoai\u2010Thanh Vuong",
+      "Hiba Wakidi",
+      "Ahra Yi"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.26434/chemrxiv-2024-33sfl",
+    "title": "Chemspyd: An Open-Source Python Interface for Chemspeed Robotic Chemistry and Materials Platforms",
+    "year": 2024,
+    "journal": "Unknown",
+    "authors": [
+      "Martin Seifrid",
+      "Felix Strieth\u2010Kalthoff",
+      "Mohammad Haddadnia",
+      "Tony Wu",
+      "Emre Alca",
+      "L Bod\u00f8",
+      "Sebastian Arellano-Rubach",
+      "Naruki Yoshikawa",
+      "Marta Skreta",
+      "Rachel Keunen"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.26434/chemrxiv-2024-33sfl-v2",
+    "title": "Chemspyd: An Open-Source Python Interface for Chemspeed Robotic Chemistry and Materials Platforms",
+    "year": 2024,
+    "journal": "Unknown",
+    "authors": [
+      "Martin Seifrid",
+      "Felix Strieth\u2010Kalthoff",
+      "Mohammad Haddadnia",
+      "Tony Wu",
+      "Emre Alca",
+      "L Bod\u00f8",
+      "Sebastian Arellano-Rubach",
+      "Naruki Yoshikawa",
+      "Marta Skreta",
+      "Rachel Keunen"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1039/d4dd00046c",
+    "title": "Chemspyd: an open-source python interface for Chemspeed robotic chemistry and materials platforms",
+    "year": 2024,
+    "journal": "Digital Discovery",
+    "authors": [
+      "Martin Seifrid",
+      "Felix Strieth\u2010Kalthoff",
+      "Mohammad Haddadnia",
+      "Tony Wu",
+      "Emre Alca",
+      "L Bod\u00f8",
+      "Sebastian Arellano-Rubach",
+      "Naruki Yoshikawa",
+      "Marta Skreta",
+      "Rachel Keunen"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1126/science.adk9227",
+    "title": "Delocalized, asynchronous, closed-loop discovery of organic laser emitters",
+    "year": 2024,
+    "journal": "SCIENCE",
+    "authors": [
+      "Felix Strieth\u2010Kalthoff",
+      "Han Hao",
+      "Vandana Rathore",
+      "Joshua S. Derasp",
+      "Th\u00e9ophile Gaudin",
+      "Nicholas H. Angello",
+      "Martin Seifrid",
+      "Ekaterina Trushina",
+      "Mason Guy",
+      "Junliang Liu"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acs.chemmater.3c01931",
+    "title": "Importance of Short-Range Order in Governing Thin Film Morphology and Electronic Properties of Polymeric Organic Semiconductors",
+    "year": 2024,
+    "journal": "CHEMISTRY OF MATERIALS",
+    "authors": [
+      "Martin Seifrid",
+      "Akchheta Karki",
+      "Hiba Wakidi",
+      "Herv\u00e9 Vezin",
+      "Claire Welton",
+      "Guillermo C. Bazan",
+      "Bradley F. Chmelka",
+      "Thuc\u2010Quyen Nguyen",
+      "G. N. Manjunatha Reddy"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acs.chemrev.4c00055",
+    "title": "Self-Driving Laboratories for Chemistry and Materials Science",
+    "year": 2024,
+    "journal": "CHEMICAL REVIEWS",
+    "authors": [
+      "Gary Tom",
+      "Stefan P. Schmid",
+      "Sterling G. Baird",
+      "Yang Cao",
+      "Kourosh Darvish",
+      "Han Hao",
+      "Stanley Lo",
+      "Sergio Pablo\u2010Garc\u00eda",
+      "Ella Miray Rajaonson",
+      "Marta Skreta"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acs.jcim.3c00144",
+    "title": "Augmenting Polymer Datasets by Iterative Rearrangement",
+    "year": 2023,
+    "journal": "Journal of Chemical Information and Modeling",
+    "authors": [
+      "Stanley Lo",
+      "Martin Seifrid",
+      "Th\u00e9ophile Gaudin",
+      "Al\u00e1n Aspuru\u2010Guzik"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acs.accounts.2c00220",
+    "title": "Autonomous Chemical Experiments: Challenges and Perspectives on Establishing a Self-Driving Lab",
+    "year": 2022,
+    "journal": "Accounts of Chemical Research",
+    "authors": [
+      "Martin Seifrid",
+      "Robert Pollice",
+      "Andr\u00e9s Aguilar-Gr\u00e1nda",
+      "Zamyla Morgan Chan",
+      "Kazuhiro Hotta",
+      "Cher Tian Ser",
+      "Jenya Vestfrid",
+      "Tony Wu",
+      "Al\u00e1n Aspuru\u2010Guzik"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/solr.202200135",
+    "title": "Low Voltage-Loss Organic Solar Cells Light the Way for Efficient Semitransparent Photovoltaics",
+    "year": 2022,
+    "journal": "SOLAR RRL",
+    "authors": [
+      "Benjamin R. Luginbuhl",
+      "Seo\u2010Jin Ko",
+      "Niva A. Ran",
+      "Huawei Hu",
+      "Shona M. Becwar",
+      "Akchheta Karki",
+      "Martin Seifrid",
+      "Takashi Okubo",
+      "Ming Wang",
+      "Harald Ade"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1016/j.matt.2022.05.035",
+    "title": "Reaching critical MASS: Crowdsourcing designs for the next generation of materials acceleration platforms",
+    "year": 2022,
+    "journal": "Matter",
+    "authors": [
+      "Martin Seifrid",
+      "Jason Hattrick\u2010Simpers",
+      "Al\u00e1n Aspuru\u2010Guzik",
+      "Tom Kalil",
+      "Steve Cranford"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acscentsci.1c01002",
+    "title": "Routescore: Punching the Ticket to More Efficient Materials Development",
+    "year": 2022,
+    "journal": "ACS Central Science",
+    "authors": [
+      "Martin Seifrid",
+      "Riley J. Hickman",
+      "Andr\u00e9s Aguilar-Gr\u00e1nda",
+      "Cyrille Lavigne",
+      "Jenya Vestfrid",
+      "Tony Wu",
+      "Th\u00e9ophile Gaudin",
+      "Emily J. Hopkins",
+      "Al\u00e1n Aspuru\u2010Guzik"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acs.chemmater.0c04111",
+    "title": "Microcrystal Electron Diffraction for Molecular Design of Functional Non-Fullerene Acceptor Structures",
+    "year": 2021,
+    "journal": "Chemistry of Materials",
+    "authors": [
+      "Steve Halaby",
+      "Michael W. Martynowycz",
+      "Ziyue Zhu",
+      "Sergei Tretiak",
+      "Andriy Zhugayevych",
+      "Tamir Gonen",
+      "Martin Seifrid"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.26434/chemrxiv-2021-k0qx5",
+    "title": "Routescore: Punching the Ticket to More Efficient Materials Development",
+    "year": 2021,
+    "journal": "ChemRxiv",
+    "authors": [
+      "Martin Seifrid",
+      "Riley J. Hickman",
+      "Andr\u00e9s Aguilar-Gr\u00e1nda",
+      "Cyrille Lavigne",
+      "Jenya Vestfrid",
+      "Tony Wu",
+      "Th\u00e9ophile Gaudin",
+      "Emily J. Hopkins",
+      "Al\u00e1n Aspuru\u2010Guzik"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.33774/chemrxiv-2021-k0qx5",
+    "title": "Routescore: Punching the Ticket to More Efficient Materials Development",
+    "year": 2021,
+    "journal": "Unknown",
+    "authors": [
+      "Martin Seifrid",
+      "Riley J. Hickman",
+      "Andr\u00e9s Aguilar-Gr\u00e1nda",
+      "Cyrille Lavigne",
+      "Jenya Vestfrid",
+      "Tony Wu",
+      "Th\u00e9ophile Gaudin",
+      "Emily J. Hopkins",
+      "Al\u00e1n Aspuru\u2010Guzik"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acscentsci.1c00108",
+    "title": "You Wouldn\u2019t Download a Molecule! Now, ChemSCAD Makes It Possible",
+    "year": 2021,
+    "journal": "ACS Central Science",
+    "authors": [
+      "Martin Seifrid",
+      "Al\u00e1n Aspuru\u2010Guzik"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1039/d0tc02136a",
+    "title": "Design of narrow bandgap non-fullerene acceptors for photovoltaic applications and investigation of non-geminate recombination dynamics",
+    "year": 2020,
+    "journal": "Journal of Materials Chemistry C",
+    "authors": [
+      "Joachim Vollbrecht",
+      "Jaewon Lee",
+      "Seo\u2010Jin Ko",
+      "Viktor V. Brus",
+      "Akchheta Karki",
+      "William Le",
+      "Martin Seifrid",
+      "Michael J. Ford",
+      "Kilwon Cho",
+      "Guillermo C. Bazan"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41578-020-00232-5",
+    "title": "Insight into the structures and dynamics of organic semiconductors through solid-state NMR spectroscopy",
+    "year": 2020,
+    "journal": "Nature Reviews Materials",
+    "authors": [
+      "Martin Seifrid",
+      "G. N. Manjunatha Reddy",
+      "Bradley F. Chmelka",
+      "Guillermo C. Bazan"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1016/j.solener.2020.03.008",
+    "title": "Performance enhancement of conjugated polymer-small molecule-non fullerene ternary organic solar cells by tuning recombination kinetics and molecular ordering",
+    "year": 2020,
+    "journal": "Solar Energy",
+    "authors": [
+      "Ramakant Sharma",
+      "Hyun-Woo Lee",
+      "Martin Seifrid",
+      "Vinay Gupta",
+      "Guillermo C. Bazan",
+      "Seunghyup Yoo"
+    ],
+    "citation_count": 0
+  }
+]

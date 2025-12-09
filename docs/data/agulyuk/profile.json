@@ -1,0 +1,15 @@
+{
+  "unity_id": "agulyuk",
+  "name": "Alexey Gulyuk",
+  "first_name": "Alexey",
+  "last_name": "Gulyuk",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5069527267",
+  "stats": {
+    "total_publications": 7,
+    "recent_publications": 6,
+    "total_collaborators": 31,
+    "total_categories": 3,
+    "external_percentage": 58.1
+  }
+}

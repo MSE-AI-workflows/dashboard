@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jerome Cuomo - Faculty Dashboard</title>
+    <link rel="stylesheet" href="../css/dashboard.css">
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <a href="../index.html" class="back-link">← Back to Faculty List</a>
+            <h1>Jerome Cuomo</h1>
+            <p class="department">Materials Science & Engineering</p>
+        </header>
+
+        <div class="metrics-grid" id="metrics"></div>
+
+        <section class="card">
+            <h2>📚 Recent Publications</h2>
+            <div id="publications-list"></div>
+        </section>
+
+        
+
+        
+    </div>
+
+    <script src="../js/dashboard.js"></script>
+    <script src="../js/charts.js"></script>
+    <script src="../js/export.js"></script>
+    <script>
+        const FACULTY_ID = 'cuomo';
+        const FACULTY_NAME = 'Jerome Cuomo';
+        window.addEventListener('DOMContentLoaded', () => loadDashboard(FACULTY_ID, FACULTY_NAME));
+    </script>
+</body>
+</html>

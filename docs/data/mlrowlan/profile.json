@@ -1,0 +1,15 @@
+{
+  "unity_id": "mlrowlan",
+  "name": "Maude Cuchiara",
+  "first_name": "Maude",
+  "last_name": "Cuchiara",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5028100314",
+  "stats": {
+    "total_publications": 20,
+    "recent_publications": 8,
+    "total_collaborators": 43,
+    "total_categories": 4,
+    "external_percentage": 51.2
+  }
+}

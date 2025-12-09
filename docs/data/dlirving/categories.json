@@ -1,0 +1,72 @@
+{
+  "summary": {
+    "total_papers": 13,
+    "total_categories": 4
+  },
+  "categories": [
+    {
+      "category": "semiconductor",
+      "count": 8,
+      "papers": [
+        "10.1063/5.0265591",
+        "10.1021/acs.jpclett.2c01976",
+        "10.1007/s11837-021-05087-x",
+        "10.1063/5.0092736",
+        "10.1063/5.0035957",
+        "10.1063/5.0041127",
+        "10.1063/5.0068523",
+        "10.1111/jace.17938"
+      ],
+      "percentage": 61.53846153846154
+    },
+    {
+      "category": "ceramic",
+      "count": 3,
+      "papers": [
+        "10.1007/s11664-022-09941-9",
+        "10.1063/5.0048820",
+        "10.1111/jace.18042"
+      ],
+      "percentage": 23.076923076923077
+    },
+    {
+      "category": "metal",
+      "count": 1,
+      "papers": [
+        "10.1063/5.0059453"
+      ],
+      "percentage": 7.6923076923076925
+    },
+    {
+      "category": "others",
+      "count": 1,
+      "papers": [
+        "10.1063/5.0039972"
+      ],
+      "percentage": 7.6923076923076925
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "semiconductor": 4,
+      "ceramic": 2,
+      "metal": 1,
+      "others": 1
+    },
+    {
+      "year": 2022,
+      "semiconductor": 3,
+      "ceramic": 1,
+      "metal": 0,
+      "others": 0
+    },
+    {
+      "year": 2025,
+      "semiconductor": 1,
+      "ceramic": 0,
+      "metal": 0,
+      "others": 0
+    }
+  ]
+}

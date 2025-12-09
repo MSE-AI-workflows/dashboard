@@ -1,0 +1,74 @@
+{
+  "summary": {
+    "total_papers": 13,
+    "total_categories": 3
+  },
+  "categories": [
+    {
+      "category": "ceramic",
+      "count": 10,
+      "papers": [
+        "10.1103/physrevmaterials.9.053601",
+        "10.1038/s41586-023-06786-y",
+        "10.1111/jace.20257",
+        "10.1111/jace.19795",
+        "10.1016/j.commatsci.2023.112255",
+        "10.1557/s43577-022-00281-x",
+        "10.1016/j.actamat.2021.117051",
+        "10.1146/annurev-matsci-080819-121217",
+        "10.1038/s41467-021-25979-5",
+        "10.1002/adma.202102904"
+      ],
+      "percentage": 76.92307692307693
+    },
+    {
+      "category": "metal",
+      "count": 2,
+      "papers": [
+        "10.1016/j.actamat.2024.119667",
+        "10.3390/met12122036"
+      ],
+      "percentage": 15.384615384615385
+    },
+    {
+      "category": "biopolymer",
+      "count": 1,
+      "papers": [
+        "10.1038/s41524-024-01321-7"
+      ],
+      "percentage": 7.6923076923076925
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "ceramic": 4,
+      "metal": 0,
+      "biopolymer": 0
+    },
+    {
+      "year": 2022,
+      "ceramic": 1,
+      "metal": 1,
+      "biopolymer": 0
+    },
+    {
+      "year": 2023,
+      "ceramic": 1,
+      "metal": 0,
+      "biopolymer": 0
+    },
+    {
+      "year": 2024,
+      "ceramic": 3,
+      "metal": 1,
+      "biopolymer": 1
+    },
+    {
+      "year": 2025,
+      "ceramic": 1,
+      "metal": 0,
+      "biopolymer": 0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "unity_id": "rcollaz",
+  "name": "Ramon Collazo",
+  "first_name": "Ramon",
+  "last_name": "Collazo",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5087143982",
+  "stats": {
+    "total_publications": 244,
+    "recent_publications": 60,
+    "total_collaborators": 135,
+    "total_categories": 4,
+    "external_percentage": 57.0
+  }
+}

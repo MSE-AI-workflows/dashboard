@@ -1,0 +1,178 @@
+{
+  "summary": {
+    "total_papers": 57,
+    "total_categories": 8
+  },
+  "categories": [
+    {
+      "category": "ceramic",
+      "count": 34,
+      "papers": [
+        "10.1111/jace.70216",
+        "10.1007/s10853-025-11065-4",
+        "10.1007/s10853-025-11147-3",
+        "10.1021/acs.chemmater.4c00929",
+        "10.1007/s10853-024-09878-w",
+        "10.1111/jace.20277",
+        "10.1116/6.0003307",
+        "10.1111/jace.19702",
+        "10.1016/j.scriptamat.2024.116089",
+        "10.1016/j.susmat.2022.e00524",
+        "10.1016/j.actamat.2022.118567",
+        "10.1063/5.0147124",
+        "10.1002/anie.202312130",
+        "10.1063/5.0148068",
+        "10.1088/1361-6528/acad0a",
+        "10.1063/5.0128038",
+        "10.1016/j.actamat.2022.117682",
+        "10.1016/j.jeurceramsoc.2021.12.024",
+        "10.1039/d2na00603k",
+        "10.1016/j.actamat.2022.118220",
+        "10.1016/j.jmat.2022.01.006",
+        "10.1021/acsami.2c11073",
+        "10.1002/aelm.202200265",
+        "10.1021/acsami.2c1107342232",
+        "10.1063/5.0083656",
+        "10.1002/pssr.202100012",
+        "10.1016/j.watres.2021.117399",
+        "10.1016/j.jssc.2021.122419",
+        "10.1116/6.0001317",
+        "10.1063/5.0047977",
+        "10.1111/jace.17625",
+        "10.1016/j.actamat.2021.116833",
+        "10.1016/j.jeurceramsoc.2021.01.043",
+        "10.1016/j.oceram.2021.100140"
+      ],
+      "percentage": 59.64912280701754
+    },
+    {
+      "category": "others",
+      "count": 8,
+      "papers": [
+        "10.1242/dev.205007",
+        "10.1525/elementa.2024.00060",
+        "10.1111/gcb.70142",
+        "10.3390/su162310429",
+        "10.1016/j.scitotenv.2022.153153",
+        "10.1016/j.gca.2021.05.059",
+        "10.1021/acs.est.1c05311",
+        "10.1109/tuffc.2020.3046815"
+      ],
+      "percentage": 14.035087719298245
+    },
+    {
+      "category": "nano_materials",
+      "count": 6,
+      "papers": [
+        "10.1021/acs.jpcc.4c07166",
+        "10.1007/s10669-024-09991-w",
+        "10.1021/acs.jpcc.4c04169",
+        "10.1021/acs.chemmater.2c02192",
+        "10.1039/d2tc00477a",
+        "10.1016/j.nanoen.2022.107386"
+      ],
+      "percentage": 10.526315789473683
+    },
+    {
+      "category": "metal",
+      "count": 4,
+      "papers": [
+        "10.1016/j.chemosphere.2024.143162",
+        "10.1016/j.actamat.2023.119171",
+        "10.1002/chem.202200479",
+        "10.1063/5.0029532"
+      ],
+      "percentage": 7.017543859649122
+    },
+    {
+      "category": "semiconductor",
+      "count": 2,
+      "papers": [
+        "10.1109/tuffc.2020.2987438",
+        "10.1088/1361-6528/ac1ebe"
+      ],
+      "percentage": 3.508771929824561
+    },
+    {
+      "category": "biopolymer",
+      "count": 1,
+      "papers": [
+        "10.1093/jxb/erad326"
+      ],
+      "percentage": 1.7543859649122806
+    },
+    {
+      "category": "polymer",
+      "count": 1,
+      "papers": [
+        "10.1021/acs.iecr.1c01374"
+      ],
+      "percentage": 1.7543859649122806
+    },
+    {
+      "category": "composite",
+      "count": 1,
+      "papers": [
+        "10.1016/j.mtla.2021.101054"
+      ],
+      "percentage": 1.7543859649122806
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "ceramic": 9,
+      "others": 3,
+      "nano_materials": 0,
+      "metal": 1,
+      "semiconductor": 2,
+      "biopolymer": 0,
+      "polymer": 1,
+      "composite": 1
+    },
+    {
+      "year": 2022,
+      "ceramic": 10,
+      "others": 1,
+      "nano_materials": 3,
+      "metal": 1,
+      "semiconductor": 0,
+      "biopolymer": 0,
+      "polymer": 0,
+      "composite": 0
+    },
+    {
+      "year": 2023,
+      "ceramic": 6,
+      "others": 0,
+      "nano_materials": 0,
+      "metal": 1,
+      "semiconductor": 0,
+      "biopolymer": 1,
+      "polymer": 0,
+      "composite": 0
+    },
+    {
+      "year": 2024,
+      "ceramic": 6,
+      "others": 1,
+      "nano_materials": 3,
+      "metal": 1,
+      "semiconductor": 0,
+      "biopolymer": 0,
+      "polymer": 0,
+      "composite": 0
+    },
+    {
+      "year": 2025,
+      "ceramic": 3,
+      "others": 3,
+      "nano_materials": 0,
+      "metal": 0,
+      "semiconductor": 0,
+      "biopolymer": 0,
+      "polymer": 0,
+      "composite": 0
+    }
+  ]
+}

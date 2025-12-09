@@ -1,0 +1,590 @@
+[
+  {
+    "doi": "10.1126/sciadv.adu8215",
+    "title": "Air-stable n-type dopant for organic semiconductors via a single-photon catalytic process",
+    "year": 2025,
+    "journal": "SCIENCE ADVANCES",
+    "authors": [
+      "Liang Yan",
+      "Xinzheng Yang",
+      "Mengqi Yang",
+      "Justin Neu",
+      "Somayeh Kashani",
+      "Rajiv Giridharagopal",
+      "Yusuf Olanrewaju",
+      "Franky So",
+      "David S. Ginger",
+      "Harald Ade"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsaelm.4c02172",
+    "title": "Micropatterned Indium-Tin Oxide Grid Electrode for Vertical, Optoelectronic Field-Effect Transistors",
+    "year": 2025,
+    "journal": "ACS APPLIED ELECTRONIC MATERIALS",
+    "authors": [
+      "Szuheng Ho",
+      "J. Park",
+      "Franky So",
+      "Hyeonggeun Yu"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/jacs.5c11337",
+    "title": "Quantifying the Localization of Charges Generated upon Molecular Doping of Conjugated Polymers",
+    "year": 2025,
+    "journal": "JOURNAL OF THE AMERICAN CHEMICAL SOCIETY",
+    "authors": [
+      "Sung\u2010Joo Kwon",
+      "Rajiv Giridharagopal",
+      "Yusuf Olanrewaju",
+      "Justin Neu",
+      "Wei You",
+      "Franky So",
+      "David S. Ginger"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1039/d5dd00175g",
+    "title": "SEARS: a lightweight FAIR platform for multi-lab materials experiments and closed-loop optimization",
+    "year": 2025,
+    "journal": "DIGITAL DISCOVERY",
+    "authors": [
+      "Unknown"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adma.202504357",
+    "title": "Two-Stage Bipolaron Formation in Molecularly Doped Conjugated Polymers",
+    "year": 2025,
+    "journal": "ADVANCED MATERIALS",
+    "authors": [
+      "Rui Su",
+      "Jingshan Chai",
+      "Yusen Pei",
+      "Yusuf Olanrewaju",
+      "Liang Yan",
+      "Justin Neu",
+      "Jake Mauthe",
+      "Katherine Stewart",
+      "Somayeh Kashani",
+      "Neha Chaturvedi"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41586-025-09030-x",
+    "title": "Unconventional solitonic high-temperature superfluorescence from perovskites",
+    "year": 2025,
+    "journal": "NATURE",
+    "authors": [
+      "Melike Biliroglu",
+      "Antonia Ghita",
+      "Myratgeldi Kotyrov",
+      "Xixi Qin",
+      "Dovletgeldi Seyitliyev",
+      "Natchanun Phonthiptokun",
+      "Malek Abdelsamei",
+      "Jingshan Chai",
+      "Rui Su",
+      "Uthpala Herath"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/jacs.4c09843",
+    "title": "Acid-Triggered Side Chain Cleavage Leads to Doped Conjugated Polymers of High Conductivity",
+    "year": 2024,
+    "journal": "JOURNAL OF THE AMERICAN CHEMICAL SOCIETY",
+    "authors": [
+      "Jordan Shanahan",
+      "Liang Yan",
+      "Yusuf Olanrewaju",
+      "Somayeh Kashani",
+      "Harald Ade",
+      "Franky So",
+      "Wei You"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1109/lpt.2024.3374261",
+    "title": "Hybrid Laser Cavity Design for Improved Photon Lifetime and Performance",
+    "year": 2024,
+    "journal": "IEEE PHOTONICS TECHNOLOGY LETTERS",
+    "authors": [
+      "Yash Mehta",
+      "Kun-Chieh Chien",
+      "Lei Lei",
+      "Kenan G\u00fcndo\u011fdu",
+      "Chih\u2010Hao Chang",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1088/1361-6528/ad0248",
+    "title": "Modeling the co-assembly of binary nanoparticles",
+    "year": 2024,
+    "journal": "NANOTECHNOLOGY",
+    "authors": [
+      "Saurav Mohanty",
+      "Timothy Chen",
+      "I\u2010Te Chen",
+      "Franky So",
+      "Chih\u2010Hao Chang"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsphotonics.3c00812",
+    "title": "High-Efficiency Linearly Polarized Organic Light-Emitting Diodes",
+    "year": 2023,
+    "journal": "ACS PHOTONICS",
+    "authors": [
+      "Qi Dong",
+      "Liping Zhu",
+      "Shichen Yin",
+      "Lei Lei",
+      "Kenan G\u00fcndo\u011fdu",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adma.202211284",
+    "title": "Metal-Halide Perovskite Lasers: Cavity Formation and Emission Characteristics",
+    "year": 2023,
+    "journal": "ADVANCED MATERIALS",
+    "authors": [
+      "Jiyoung Moon",
+      "Yash Mehta",
+      "Kenan G\u00fcndo\u011fdu",
+      "Franky So",
+      "Qing Gu"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsphotonics.2c00917",
+    "title": "Cavity Engineering of Perovskite Distributed Feedback Lasers",
+    "year": 2022,
+    "journal": "ACS Photonics",
+    "authors": [
+      "Qi Dong",
+      "Dovletgeldi Seyitliyev",
+      "Kasra Darabi",
+      "Juliana Mendes",
+      "Lei Lei",
+      "Yi\u2010An Chen",
+      "Chih\u2010Hao Chang",
+      "Aram Amassian",
+      "Kenan G\u00fcndo\u011fdu",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsami.1c21128",
+    "title": "Curved Mirror Arrays for Light Extraction in Top-Emitting Organic Light-Emitting Diodes",
+    "year": 2022,
+    "journal": "ACS APPLIED MATERIALS & INTERFACES",
+    "authors": [
+      "Stephen Amoah",
+      "Shichen Yin",
+      "Qi Dong",
+      "Dong Chen",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acs.chemmater.2c00293",
+    "title": "Enhanced Surface Passivation of Lead Sulfide Quantum Dots for Short-Wavelength Photodetectors",
+    "year": 2022,
+    "journal": "CHEMISTRY OF MATERIALS",
+    "authors": [
+      "Shichen Yin",
+      "Carr Hoi Yi Ho",
+      "Shuo Ding",
+      "Liping Zhu",
+      "Julian Gullett",
+      "Dong Chen",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsami.2c11265",
+    "title": "Importance of Electric-Field-Independent Mobilities in Thick-Film Organic Solar Cells",
+    "year": 2022,
+    "journal": "ACS APPLIED MATERIALS & INTERFACES",
+    "authors": [
+      "Carr Hoi Yi Ho",
+      "Yusen Pei",
+      "Yunpeng Qin",
+      "Chujun Zhang",
+      "Zhengxing Peng",
+      "Indunil Angunawela",
+      "Austin L. Jones",
+      "Hang Yin",
+      "Hamna F. Iqbal",
+      "John R. Reynolds"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acs.chemmater.2c01121",
+    "title": "Insights into the Local Bulk-Heterojunction Packing Interactions and Donor-Acceptor Energy Level Offsets in Scalable Photovoltaic Polymers",
+    "year": 2022,
+    "journal": "CHEMISTRY OF MATERIALS",
+    "authors": [
+      "Austin L. Jones",
+      "Carr Hoi Yi Ho",
+      "Sebastian Schneider",
+      "Junxiang Zhang",
+      "Yusen Pei",
+      "Jiayu Wang",
+      "Xiaowei Zhan",
+      "Seth R. Marder",
+      "Michael F. Toney",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41566-022-00974-4",
+    "title": "Room-temperature superfluorescence in hybrid perovskites and its origins",
+    "year": 2022,
+    "journal": "NATURE PHOTONICS",
+    "authors": [
+      "Melike Biliroglu",
+      "Gamze Findik",
+      "Juliana Mendes",
+      "Dovletgeldi Seyitliyev",
+      "Lei Lei",
+      "Qi Dong",
+      "Yash Mehta",
+      "Vasily V. Temnov",
+      "Franky So",
+      "Kenan G\u00fcndo\u011fdu"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1016/j.xcrp.2021.100381",
+    "title": "Balancing crop production and energy harvesting in organic solar-powered greenhouses",
+    "year": 2021,
+    "journal": "CELL REPORTS PHYSICAL SCIENCE",
+    "authors": [
+      "Eshwar Ravishankar",
+      "Melodi Charles",
+      "Yuan Xiong",
+      "Reece Henry",
+      "Jennifer Swift",
+      "Jeromy James Rech",
+      "John Calero",
+      "Sam Cho",
+      "Ronald E. Booth",
+      "Taesoo Kim"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adfm.202103299",
+    "title": "Band Edge Control of Quasi-2D Metal Halide Perovskites for Blue Light-Emitting Diodes with Enhanced Performance",
+    "year": 2021,
+    "journal": "ADVANCED FUNCTIONAL MATERIALS",
+    "authors": [
+      "Michael Worku",
+      "Azza Ben\u2010Akacha",
+      "S. Sridhar",
+      "Jordan R. Frick",
+      "Shichen Yin",
+      "Qingquan He",
+      "Alex J. Robb",
+      "Maya Chaaban",
+      "He Liu",
+      "J. S. Raaj Vellore Winfred"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adma.202006801",
+    "title": "Directional Polarized Light Emission from Thin\u2010Film Light\u2010Emitting Diodes",
+    "year": 2021,
+    "journal": "Advanced Materials",
+    "authors": [
+      "Yash Mehta",
+      "Yi\u2010An Chen",
+      "Lei Lei",
+      "Liping Zhu",
+      "Nilesh Barange",
+      "Qi Dong",
+      "Shichen Yin",
+      "Juliana Mendes",
+      "Siliang He",
+      "Renuka Gogusetti"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41566-021-00869-w",
+    "title": "Emitting organically",
+    "year": 2021,
+    "journal": "NATURE PHOTONICS",
+    "authors": [
+      "David Pile"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41566-021-00830-x",
+    "title": "High-temperature superfluorescence in methyl ammonium lead iodide",
+    "year": 2021,
+    "journal": "Nature Photonics",
+    "authors": [
+      "Gamze Findik",
+      "Melike Biliroglu",
+      "Dovletgeldi Seyitliyev",
+      "Juliana Mendes",
+      "Andrew Barrette",
+      "Hossein Ardekani",
+      "Lei Lei",
+      "Qi Dong",
+      "Franky So",
+      "Kenan G\u00fcndo\u011fdu"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1016/j.mtener.y021.100707",
+    "title": "Interconnecting layers for tandem organic solar cells",
+    "year": 2021,
+    "journal": "MATERIALS TODAY ENERGY",
+    "authors": [
+      "Unknown"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0057325",
+    "title": "Light extraction in tandem organic light emitting diodes",
+    "year": 2021,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Shichen Yin",
+      "Yi\u2010An Chen",
+      "Liping Zhu",
+      "Qi Dong",
+      "Chih\u2010Hao Chang",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adfm.202010144",
+    "title": "Metal Halide Perovskites for Laser Applications",
+    "year": 2021,
+    "journal": "ADVANCED FUNCTIONAL MATERIALS",
+    "authors": [
+      "Lei Lei",
+      "Qi Dong",
+      "Kenan G\u00fcndo\u011fdu",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/aenm.201902430",
+    "title": "Critical Role of Polymer Aggregation and Miscibility in Nonfullerene-Based Organic Photovoltaics",
+    "year": 2020,
+    "journal": "ADVANCED ENERGY MATERIALS",
+    "authors": [
+      "Xueping Yi",
+      "Zhengxing Peng",
+      "Bing Xu",
+      "Dovletgeldi Seyitliyev",
+      "Carr Hoi Yi Ho",
+      "Evgeny O. Danilov",
+      "Taesoo Kim",
+      "John R. Reynolds",
+      "Aram Amassian",
+      "Kenan G\u00fcndo\u011fdu"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsami.0c05615",
+    "title": "Direct Acoustic Imaging Using a Piezoelectric Organic Light-Emitting Diode",
+    "year": 2020,
+    "journal": "ACS APPLIED MATERIALS & INTERFACES",
+    "authors": [
+      "Hyeonggeun Yu",
+      "Jinwook Kim",
+      "Howuk Kim",
+      "Nilesh Barange",
+      "Xiaoning Jiang",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1039/d0tc03969a",
+    "title": "Effects of polymer crystallinity on non-fullerene acceptor based organic solar cell photostability",
+    "year": 2020,
+    "journal": "JOURNAL OF MATERIALS CHEMISTRY C",
+    "authors": [
+      "Xueping Yi",
+      "Carr Hoi Yi Ho",
+      "Bhoj Gautam",
+      "Lei Lei",
+      "Ashraful Haider Chowdhury",
+      "Behzad Bahrami",
+      "Qiquan Qiao",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsenergylett.0c02077",
+    "title": "Efficient Double- and Triple-Junction Nonfullerene Organic Photovoltaics and Design Guidelines for Optimal Cell Performance",
+    "year": 2020,
+    "journal": "ACS ENERGY LETTERS",
+    "authors": [
+      "Yuliar Firdaus",
+      "Carr Hoi Yi Ho",
+      "Yuanbao Lin",
+      "Emre Yengel",
+      "Vincent M. Le Corre",
+      "Mohamad Insan Nugraha",
+      "Emre Yarali",
+      "Franky So",
+      "Thomas D. Anthopoulos"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adma.201906571",
+    "title": "Efficient Energy Funneling in Quasi-2D Perovskites: From Light Emission to Lasing",
+    "year": 2020,
+    "journal": "ADVANCED MATERIALS",
+    "authors": [
+      "Lei Lei",
+      "Dovletgeldi Seyitliyev",
+      "Samuel J. Stuard",
+      "Juliana Mendes",
+      "Qi Dong",
+      "Yi\u2010An Chen",
+      "Siliang He",
+      "Xueping Yi",
+      "Liping Zhu",
+      "Chih\u2010Hao Chang"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/aenm.202000823",
+    "title": "High-Performance Tandem Organic Solar Cells Using HSolar as the Interconnecting Layer",
+    "year": 2020,
+    "journal": "ADVANCED ENERGY MATERIALS",
+    "authors": [
+      "Carr Hoi Yi Ho",
+      "Taesoo Kim",
+      "Yuan Xiong",
+      "Yuliar Firdaus",
+      "Xueping Yi",
+      "Qi Dong",
+      "Jeromy James Rech",
+      "Abay Gadisa",
+      "Ronald E. Booth",
+      "Brendan T. O\u2019Connor"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsaelm.0c00326",
+    "title": "Mode Dispersion in Photonic Crystal Organic Light-Emitting Diodes",
+    "year": 2020,
+    "journal": "ACS APPLIED ELECTRONIC MATERIALS",
+    "authors": [
+      "Peng Cheng",
+      "Monica Samal",
+      "Nilesh Barange",
+      "Yi\u2010An Chen",
+      "Dong\u2010Hun Shin",
+      "Yash Mehta",
+      "Adam Rozelle",
+      "Chih\u2010Hao Chang",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsami.0c05825",
+    "title": "Multi-mode Organic Light-Emitting Diode to Suppress the Viewing Angle Dependence",
+    "year": 2020,
+    "journal": "ACS APPLIED MATERIALS & INTERFACES",
+    "authors": [
+      "Dong Chen",
+      "Linyu Cao",
+      "Stephen Amoah",
+      "Kenan G\u00fcndo\u011fdu",
+      "Jian Li",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1088/2515-7639/ab60c4",
+    "title": "Operational stability of perovskite light emitting diodes",
+    "year": 2020,
+    "journal": "JOURNAL OF PHYSICS-MATERIALS",
+    "authors": [
+      "Qi Dong",
+      "Lei Lei",
+      "Juliana Mendes",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1364/oe.404412",
+    "title": "Recovering cavity effects in corrugated organic light emitting diodes",
+    "year": 2020,
+    "journal": "OPTICS EXPRESS",
+    "authors": [
+      "Yi\u2010An Chen",
+      "Dong\u2010Hun Shin",
+      "Yash Mehta",
+      "I\u2010Te Chen",
+      "Nilesh Barange",
+      "Liping Zhu",
+      "Stephen Amoah",
+      "Chih\u2010Hao Chang",
+      "Franky So"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsami.0c14269",
+    "title": "Understanding the Role of Ion Migration in the Operation of Perovskite Light-Emitting Diodes by Transient Measurements",
+    "year": 2020,
+    "journal": "ACS APPLIED MATERIALS & INTERFACES",
+    "authors": [
+      "Qi Dong",
+      "Juliana Mendes",
+      "Lei Lei",
+      "Dovletgeldi Seyitliyev",
+      "Liping Zhu",
+      "Siliang He",
+      "Kenan G\u00fcndo\u011fdu",
+      "Franky So"
+    ],
+    "citation_count": 0
+  }
+]

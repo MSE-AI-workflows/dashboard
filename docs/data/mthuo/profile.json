@@ -1,0 +1,15 @@
+{
+  "unity_id": "mthuo",
+  "name": "Martin Thuo",
+  "first_name": "Martin",
+  "last_name": "Thuo",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5047642945",
+  "stats": {
+    "total_publications": 166,
+    "recent_publications": 56,
+    "total_collaborators": 116,
+    "total_categories": 8,
+    "external_percentage": 81.9
+  }
+}

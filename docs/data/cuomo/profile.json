@@ -1,0 +1,15 @@
+{
+  "unity_id": "cuomo",
+  "name": "Jerome Cuomo",
+  "first_name": "Jerome",
+  "last_name": "Cuomo",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5109890688",
+  "stats": {
+    "total_publications": 84,
+    "recent_publications": 0,
+    "total_collaborators": 0,
+    "total_categories": 0,
+    "external_percentage": 0
+  }
+}

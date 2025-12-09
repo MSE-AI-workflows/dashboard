@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCSU MSE Faculty Dashboards</title>
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔬 NCSU Materials Science & Engineering</h1>
+            <p class="department">Faculty Research Dashboards</p>
+        </header>
+
+        <div id="faculty-grid" class="faculty-grid">
+            <div class="loading">Loading faculty list</div>
+        </div>
+    </div>
+
+    <script>
+        async function loadFacultyList() {
+            try {
+                const response = await fetch('data/faculty_list.json');
+                const faculty = await response.json();
+                
+                // Sort by last name
+                faculty.sort((a, b) => a.last_name.localeCompare(b.last_name));
+                
+                const container = document.getElementById('faculty-grid');
+                container.innerHTML = faculty.map(person => `
+                    <div class="faculty-card">
+                        <h3>${person.name}</h3>
+                        <p class="department">${person.department}</p>
+                        <div class="stats">
+                            <span><strong>${person.total_publications}</strong> publications</span>
+                            <span><strong>${person.total_collaborators}</strong> collaborators</span>
+                        </div>
+                        <a href="faculty/${person.unity_id}.html" class="btn-view">View Dashboard →</a>
+                    </div>
+                `).join('');
+            } catch (error) {
+                console.error('Error loading faculty list:', error);
+                document.getElementById('faculty-grid').innerHTML = 
+                    '<div class="card"><h2>Error loading faculty list</h2></div>';
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', loadFacultyList);
+    </script>
+</body>
+</html>

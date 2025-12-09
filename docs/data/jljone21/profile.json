@@ -1,0 +1,15 @@
+{
+  "unity_id": "jljone21",
+  "name": "Jacob Jones",
+  "first_name": "Jacob",
+  "last_name": "Jones",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5003785721",
+  "stats": {
+    "total_publications": 345,
+    "recent_publications": 78,
+    "total_collaborators": 299,
+    "total_categories": 8,
+    "external_percentage": 63.9
+  }
+}

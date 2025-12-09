@@ -1,0 +1,262 @@
+{
+  "overview": {
+    "total_collaborators": 31,
+    "internal_count": 13,
+    "internal_percentage": 41.935483870967744,
+    "external_count": 18,
+    "external_percentage": 58.06451612903226,
+    "network_density": 0.28,
+    "recent_collaborations_2years": 15
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5046770281",
+      "name": "Yaroslava G. Yingling",
+      "institution": "North Carolina State University",
+      "node_type": "faculty",
+      "collaboration_count": 5,
+      "years": "2025,2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5085546285",
+      "name": "Naushita Sharma",
+      "institution": "Arizona State University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5074371899",
+      "name": "Andreas Spanias",
+      "institution": "Arizona State University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5103281288",
+      "name": "Dooil Kim",
+      "institution": "Dankook University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5088566394",
+      "name": "Alison W. Roberts",
+      "institution": "University of Rhode Island",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2025"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5068449150",
+      "name": "Elliot Reid",
+      "institution": "Georgia Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5064887910",
+      "name": "Gyu Dong Kim",
+      "institution": "RTI International",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5043411561",
+      "name": "James S. Peerless",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065021493",
+      "name": "Nina J. B. Milliken",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5087143982",
+      "name": "Ram\u00f3n Collazo",
+      "institution": "Shimane University",
+      "node_type": "faculty",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5030783833",
+      "name": "Mohit Malu",
+      "institution": "Arizona State University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5014884539",
+      "name": "Carmen A. Velasco",
+      "institution": "Arizona State University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5015951697",
+      "name": "Jessica A. Nash",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5026548048",
+      "name": "Candace H. Haigler",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2025"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5035830527",
+      "name": "Minhazul Islam",
+      "institution": "Arizona State University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5043292120",
+      "name": "Dennis LaJeunesse",
+      "institution": "University of North Carolina at Greensboro",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047658314",
+      "name": "Aleksey E. Kuznetsov",
+      "institution": "Federico Santa Mar\u00eda Technical University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5049153680",
+      "name": "Matthew D. Manning",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5051020772",
+      "name": "Jae Woo Lee",
+      "institution": "Korea University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5060552352",
+      "name": "Nahed Abu Zaid",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2025"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Arizona State University",
+      "collaborator_count": 7,
+      "paper_count": 9
+    },
+    {
+      "institution": "Dankook University",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "University of Rhode Island",
+      "collaborator_count": 1,
+      "paper_count": 5
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "RTI International",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "University of North Carolina at Greensboro",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Worcester Polytechnic Institute",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Federico Santa Mar\u00eda Technical University",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Providence College",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Appalachian State University",
+      "collaborator_count": 1,
+      "paper_count": 1
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2021,
+      "papers": 2,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 8,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 11,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 10,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 8,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 27
+    },
+    {
+      "country": "Other",
+      "count": 4
+    }
+  ]
+}

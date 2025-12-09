@@ -1,0 +1,903 @@
+[
+  {
+    "doi": "10.35848/1882-0786/adfc26",
+    "title": "Mg-annealed anode contacts to reduce the on-resistance of GaN pn diodes formed via Mg implantation and ultra-high pressure annealing",
+    "year": 2025,
+    "journal": "APPLIED PHYSICS EXPRESS",
+    "authors": [
+      "Md. Azizul Hasan",
+      "Matthew Alessi",
+      "Dolar Khachariya",
+      "Will Mecouch",
+      "Seiji Mita",
+      "Pramod Reddy",
+      "Kacper Sierakowski",
+      "Tomasz Sochacki",
+      "Micha\u0142 Bo\u0107kowski",
+      "E. Kohn"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/pssa.202500520",
+    "title": "Pathway to &gt;60% Efficiency in AlGaN\u2010Based Ultraviolet\u2010C Light\u2010Emitting Diodes",
+    "year": 2025,
+    "journal": "Unknown",
+    "authors": [
+      "James Loveless",
+      "Jack Almeter",
+      "Ronny Kirste",
+      "Baxter Moody",
+      "Pramod Reddy",
+      "Shashwat Rathkanthiwar",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0252149",
+    "title": "Roles of Al-vacancy complexes on the luminescence spectra of low dislocation density Si-doped AlN grown by halide vapor phase epitaxy",
+    "year": 2025,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Shigefusa F. Chichibu",
+      "K Kikuchi",
+      "Baxter Moody",
+      "Seiji Mita",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar",
+      "Yoshinao Kumagai",
+      "Shoji Ishibashi",
+      "Akira Uedono",
+      "Kohei Shima"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0250995",
+    "title": "Sputtered ferroelectric aluminum scandium boron nitride (Al<sub>1-x-y</sub>B<sub>x</sub>Sc<sub>y</sub>N)/<i>n</i>-GaN heterostructures",
+    "year": 2025,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Chloe Skidmore",
+      "Josh Nordlander",
+      "John Hayden",
+      "A.L. Rice",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar",
+      "Jon\u2010Paul Maria"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0179623",
+    "title": "Dissolution of Mg-enriched defects in implanted GaN and increased p-type dopant activation",
+    "year": 2024,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Kenny Huynh",
+      "Yekan Wang",
+      "Michael E. Liao",
+      "James Tweedie",
+      "Pramod Reddy",
+      "M. H. Breckenridge",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar",
+      "Kacper Sierakowski",
+      "Micha\u0142 Bo\u0107kowski"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.35848/1882-0786/ad81c9",
+    "title": "High-current, high-voltage AlN Schottky barrier diodes",
+    "year": 2024,
+    "journal": "APPLIED PHYSICS EXPRESS",
+    "authors": [
+      "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "Dolar Khachariya",
+      "Pramod Reddy",
+      "Seiji Mita",
+      "Jack Almeter",
+      "Pegah Bagheri",
+      "Shashwat Rathkanthiwar",
+      "Ronny Kirste",
+      "Spyridon Pavlidis",
+      "E. Kohn"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1149/ma2023-02351691mtgabs",
+    "title": "(Invited) Understanding Mg-Related Defects for Vertical GaN p-n Junction Structures Via p-Type Ion Implantation",
+    "year": 2023,
+    "journal": "ECS Meeting Abstracts",
+    "authors": [
+      "Mark S. Goorsky",
+      "Michael E. Liao",
+      "Kenny Huynh",
+      "Yekan Wang",
+      "James Tweedie",
+      "Zlatko Sitar",
+      "Ram\u00f3n Collazo",
+      "Kacper Sierakowski",
+      "Micha\u0142 Bo\u0107kowski",
+      "Xianrong Huang"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1109/ted.2023.3339592",
+    "title": "Analysis of Vertical GaN JBS and p-n Diodes by Mg Ion Implantation and Ultrahigh-Pressure Annealing",
+    "year": 2023,
+    "journal": "IEEE TRANSACTIONS ON ELECTRON DEVICES",
+    "authors": [
+      "Shane Stein",
+      "Dolar Khachariya",
+      "Will Mecouch",
+      "Seiji Mita",
+      "Pramod Reddy",
+      "James Tweedie",
+      "Kacper Sierakowski",
+      "G. Kamler",
+      "Micha\u0142 Bo\u0107kowski",
+      "E. Kohn"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0176419",
+    "title": "Anderson transition in compositionally graded p-AlGaN",
+    "year": 2023,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Shashwat Rathkanthiwar",
+      "Pramod Reddy",
+      "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "James Loveless",
+      "Masahiro Kamiyama",
+      "Pegah Bagheri",
+      "Dolar Khachariya",
+      "Tim B. Eldred",
+      "Baxter Moody",
+      "Seiji Mita"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsanm.3c00038",
+    "title": "Chemical Vapor Deposition of Monolayer MoS2 on Chemomechanically Polished N-Polar GaN for Future 2D/3D Heterojunction Optoelectronics",
+    "year": 2023,
+    "journal": "ACS APPLIED NANO MATERIALS",
+    "authors": [
+      "Rohan Sengupta",
+      "Shipra Vaidya",
+      "Dennis Szymanski",
+      "Dolar Khachariya",
+      "Micha\u0142 Bo\u0107kowski",
+      "G. Kamler",
+      "Pramod Reddy",
+      "Zlatko Sitar",
+      "Ram\u00f3n Collazo",
+      "Spyridon Pavlidis"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0174524",
+    "title": "Demonstration of near-ideal Schottky contacts to Si-doped AlN",
+    "year": 2023,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "Dolar Khachariya",
+      "Pegah Bagheri",
+      "Pramod Reddy",
+      "Seiji Mita",
+      "Ronny Kirste",
+      "Shashwat Rathkanthiwar",
+      "James Tweedie",
+      "Spyridon Pavlidis",
+      "E. Kohn"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0141863",
+    "title": "High conductivity and low activation energy in p-type AlGaN",
+    "year": 2023,
+    "journal": "Applied Physics Letters",
+    "authors": [
+      "Shashwat Rathkanthiwar",
+      "Pegah Bagheri",
+      "Dolar Khachariya",
+      "Seiji Mita",
+      "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "Yan Guan",
+      "Baxter Moody",
+      "Pramod Reddy",
+      "Ronny Kirste",
+      "Ram\u00f3n Collazo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0146439",
+    "title": "High conductivity in Ge-doped AlN achieved by a non-equilibrium process",
+    "year": 2023,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Pegah Bagheri",
+      "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "Dolar Khachariya",
+      "James Loveless",
+      "Yan Guan",
+      "Shashwat Rathkanthiwar",
+      "Pramod Reddy",
+      "Ronny Kirste",
+      "Seiji Mita",
+      "James Tweedie"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0143427",
+    "title": "High p-conductivity in AlGaN enabled by polarization field engineering",
+    "year": 2023,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Shashwat Rathkanthiwar",
+      "Pramod Reddy",
+      "Baxter Moody",
+      "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "Pegah Bagheri",
+      "Dolar Khachariya",
+      "Rafael Dalmau",
+      "Seiji Mita",
+      "Ronny Kirste",
+      "Ram\u00f3n Collazo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.35848/1882-0786/acc443",
+    "title": "Schottky contacts on ultra-high-pressure-annealed GaN with high rectification ratio and near-unity ideality factor",
+    "year": 2023,
+    "journal": "APPLIED PHYSICS EXPRESS",
+    "authors": [
+      "Shane Stein",
+      "Dolar Khachariya",
+      "Seiji Mita",
+      "M. Hayden Breckenridge",
+      "James Tweedie",
+      "Pramod Reddy",
+      "Kacper Sierakowski",
+      "G. Kamler",
+      "Micha\u0142 Bo\u0107kowski",
+      "E. Kohn"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1149/ma2022-01311313mtgabs",
+    "title": "(Invited, Digital Presentation) Exploring Interfaces and Polarity to Realize Vertical III-Nitride Superjunction Devices",
+    "year": 2022,
+    "journal": "ECS Meeting Abstracts",
+    "authors": [
+      "Spyridon Pavlidis",
+      "Dolar Khachariya",
+      "Dennis Szymanski",
+      "Pramod Reddy",
+      "E. Kohn",
+      "Zlatko Sitar",
+      "Ram\u00f3n Collazo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0077628",
+    "title": "<p>The role of Ga supersaturation on facet formation in the epitaxial lateral overgrowth of GaN</p>",
+    "year": 2022,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Ke Wang",
+      "Ronny Kirste",
+      "Seiji Mita",
+      "Shun Washiyama",
+      "Will Mecouch",
+      "Pramod Reddy",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/pssr.202200323",
+    "title": "Crystallographic Tilt in Aluminum Gallium Nitride Epilayers Grown on Miscut Aluminum Nitride Substrates",
+    "year": 2022,
+    "journal": "PHYSICA STATUS SOLIDI-RAPID RESEARCH LETTERS",
+    "authors": [
+      "Shashwat Rathkanthiwar",
+      "Milena B. Graziano",
+      "James Tweedie",
+      "Seiji Mita",
+      "Ronny Kirste",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0082992",
+    "title": "Doping and compensation in heavily Mg doped Al-rich AlGaN films",
+    "year": 2022,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Pegah Bagheri",
+      "Andrew Klump",
+      "Shun Washiyama",
+      "M. Hayden Breckenridge",
+      "Ji Hyun Kim",
+      "Yan Guan",
+      "Dolar Khachariya",
+      "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "Biplab Sarkar",
+      "Shashwat Rathkanthiwar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0076044",
+    "title": "GaN lateral polar junction arrays with 3D control of doping by supersaturation modulated growth: A path toward III-nitride superjunctions",
+    "year": 2022,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Dennis Szymanski",
+      "Dolar Khachariya",
+      "Tim B. Eldred",
+      "Pegah Bagheri",
+      "Shun Washiyama",
+      "Alexander S. Chang",
+      "Spyridon Pavlidis",
+      "Ronny Kirste",
+      "Pramod Reddy",
+      "E. Kohn"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0124589",
+    "title": "High electron mobility in AlN:Si by point and extended defect management",
+    "year": 2022,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Pegah Bagheri",
+      "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "Dolar Khachariya",
+      "Shashwat Rathkanthiwar",
+      "Pramod Reddy",
+      "Ronny Kirste",
+      "Seiji Mita",
+      "James Tweedie",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/pssr.202100619",
+    "title": "Large-Area, Solar-Blind, Sub-250 nm Detection AlGaN Avalanche Photodiodes Grown on AlN Substrates",
+    "year": 2022,
+    "journal": "PHYSICA STATUS SOLIDI-RAPID RESEARCH LETTERS",
+    "authors": [
+      "Pramod Reddy",
+      "Will Mecouch",
+      "M. Hayden Breckenridge",
+      "Dolar Khachariya",
+      "Pegah Bagheri",
+      "Ji Hyun Kim",
+      "Yan Guan",
+      "Seiji Mita",
+      "Baxter Moody",
+      "James Tweedie"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.35848/1882-0786/ac8273",
+    "title": "Low resistivity, p-type, N-Polar GaN achieved by chemical potential control",
+    "year": 2022,
+    "journal": "APPLIED PHYSICS EXPRESS",
+    "authors": [
+      "Shashwat Rathkanthiwar",
+      "Dennis Szymanski",
+      "Dolar Khachariya",
+      "Pegah Bagheri",
+      "Ji Hyun Kim",
+      "Seiji Mita",
+      "Pramod Reddy",
+      "E. Kohn",
+      "Spyridon Pavlidis",
+      "Ronny Kirste"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1088/1361-6641/ac3710",
+    "title": "On electrical analysis of Al-rich p-AlGaN films for III-nitride UV light emitters",
+    "year": 2022,
+    "journal": "SEMICONDUCTOR SCIENCE AND TECHNOLOGY",
+    "authors": [
+      "Aakash Jadhav",
+      "Pegah Bagheri",
+      "Andrew Klump",
+      "Dolar Khachariya",
+      "Seiji Mita",
+      "Pramod Reddy",
+      "Shashwat Rathkanthiwar",
+      "Ronny Kirste",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0100756",
+    "title": "On the conduction mechanism in compositionally graded AlGaN",
+    "year": 2022,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Shashwat Rathkanthiwar",
+      "Pegah Bagheri",
+      "Dolar Khachariya",
+      "Ji Hyun Kim",
+      "Yasutomo Kajikawa",
+      "Pramod Reddy",
+      "Seiji Mita",
+      "Ronny Kirste",
+      "Baxter Moody",
+      "Ram\u00f3n Collazo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.35848/1882-0786/ac6566",
+    "title": "Point-defect management in homoepitaxially grown Si-doped GaN by MOCVD for vertical power devices",
+    "year": 2022,
+    "journal": "APPLIED PHYSICS EXPRESS",
+    "authors": [
+      "Shashwat Rathkanthiwar",
+      "Pegah Bagheri",
+      "Dolar Khachariya",
+      "Seiji Mita",
+      "Spyridon Pavlidis",
+      "Pramod Reddy",
+      "Ronny Kirste",
+      "James Tweedie",
+      "Zlatko Sitar",
+      "Ram\u00f3n Collazo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0092937",
+    "title": "Pseudomorphic growth of thick Al0.6Ga0.4N epilayers on AlN substrates",
+    "year": 2022,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Shashwat Rathkanthiwar",
+      "J. Houston Dycus",
+      "Seiji Mita",
+      "Ronny Kirste",
+      "James Tweedie",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0083966",
+    "title": "Record >10 MV/cm mesa breakdown fields in Al0.85Ga0.15N/Al0.6Ga0.4N high electron mobility transistors on native AlN substrates",
+    "year": 2022,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Dolar Khachariya",
+      "Seiji Mita",
+      "Pramod Reddy",
+      "Saroj Dangi",
+      "J. Houston Dycus",
+      "Pegah Bagheri",
+      "M. Hayden Breckenridge",
+      "Rohan Sengupta",
+      "Shashwat Rathkanthiwar",
+      "Ronny Kirste"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adom.202201535",
+    "title": "Spintronic Terahertz Emission in Ultrawide Bandgap Semiconductor/Ferromagnet Heterostructures",
+    "year": 2022,
+    "journal": "ADVANCED OPTICAL MATERIALS",
+    "authors": [
+      "Andrew H. Comstock",
+      "Melike Biliroglu",
+      "Dovletgeldi Seyitliyev",
+      "Aeron McConnell",
+      "Eric Vetter",
+      "Pramod Reddy",
+      "Ronny Kirste",
+      "Dennis Szymanski",
+      "Zlatko Sitar",
+      "Ram\u00f3n Collazo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1088/1361-6641/ac3638",
+    "title": "Systematic oxygen impurity reduction in smooth N-polar GaN by chemical potential control",
+    "year": 2022,
+    "journal": "SEMICONDUCTOR SCIENCE AND TECHNOLOGY",
+    "authors": [
+      "Dennis Szymanski",
+      "Ke Wang",
+      "Felix Kaess",
+      "Ronny Kirste",
+      "Seiji Mita",
+      "Pramod Reddy",
+      "Zlatko Sitar",
+      "Ram\u00f3n Collazo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/pssa.202200390",
+    "title": "Tracking of Point Defects in the Full Compositional Range of AlGaN via Photoluminescence Spectroscopy",
+    "year": 2022,
+    "journal": "PHYSICA STATUS SOLIDI A-APPLICATIONS AND MATERIALS SCIENCE",
+    "authors": [
+      "Ji Hyun Kim",
+      "Pegah Bagheri",
+      "Ronny Kirste",
+      "Pramod Reddy",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.35848/1882-0786/ac8f81",
+    "title": "Vertical GaN junction barrier Schottky diodes with near-ideal performance using Mg implantation activated by ultra-high-pressure annealing",
+    "year": 2022,
+    "journal": "APPLIED PHYSICS EXPRESS",
+    "authors": [
+      "Dolar Khachariya",
+      "Shane Stein",
+      "Will Mecouch",
+      "M. Hayden Breckenridge",
+      "Shashwat Rathkanthiwar",
+      "Seiji Mita",
+      "Baxter Moody",
+      "Pramod Reddy",
+      "James Tweedie",
+      "Ronny Kirste"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1149/ma2021-0234983mtgabs",
+    "title": "(Invited) Ion Implantation and Polarity Control: Paths Toward a III-Nitride Superjunction",
+    "year": 2021,
+    "journal": "ECS Meeting Abstracts",
+    "authors": [
+      "Ram\u00f3n Collazo",
+      "Dennis Szymanski",
+      "Dolar Khachariya",
+      "M. Hayden Breckenridge",
+      "Yan Guan",
+      "Pegah Bagheri",
+      "Pramod Reddy",
+      "Ronny Kirste",
+      "Seiji Mita",
+      "Spyridon Pavlidis"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0071791",
+    "title": "A pathway to highly conducting Ge-doped AlGaN",
+    "year": 2021,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Pegah Bagheri",
+      "Ji Hyun Kim",
+      "Shun Washiyama",
+      "Pramod Reddy",
+      "Andrew Klump",
+      "Ronny Kirste",
+      "Seiji Mita",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0038628",
+    "title": "High Mg activation in implanted GaN by high temperature and ultrahigh pressure annealing",
+    "year": 2021,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "M. Hayden Breckenridge",
+      "James Tweedie",
+      "Pramod Reddy",
+      "Yan Guan",
+      "Pegah Bagheri",
+      "Dennis Szymanski",
+      "Seiji Mita",
+      "Kacper Sierakowski",
+      "Micha\u0142 Bo\u0107kowski",
+      "Ram\u00f3n Collazo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0042857",
+    "title": "High n-type conductivity and carrier concentration in Si-implanted homoepitaxial AlN",
+    "year": 2021,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "M. Hayden Breckenridge",
+      "Pegah Bagheri",
+      "Qiang Guo",
+      "Biplab Sarkar",
+      "Dolar Khachariya",
+      "Spyridon Pavlidis",
+      "James Tweedie",
+      "Ronny Kirste",
+      "Seiji Mita",
+      "Pramod Reddy"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0048820",
+    "title": "Native oxide reconstructions on AlN and GaN (0001) surfaces",
+    "year": 2021,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Kelsey J. Mirrielees",
+      "J. Houston Dycus",
+      "Jonathon N. Baker",
+      "Pramod Reddy",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar",
+      "James M. LeBeau",
+      "Douglas L. Irving"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0039888",
+    "title": "On the characteristics of N-polar GaN Schottky barrier contacts with LPCVD SiN interlayers",
+    "year": 2021,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Dolar Khachariya",
+      "Dennis Szymanski",
+      "M. Hayden Breckenridge",
+      "Pramod Reddy",
+      "E. Kohn",
+      "Zlatko Sitar",
+      "Ram\u00f3n Collazo",
+      "Spyridon Pavlidis"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0059037",
+    "title": "On the Ge shallow-to-deep level transition in Al-rich AlGaN",
+    "year": 2021,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Pegah Bagheri",
+      "Pramod Reddy",
+      "Seiji Mita",
+      "Dennis Szymanski",
+      "Ji Hyun Kim",
+      "Yan Guan",
+      "Dolar Khachariya",
+      "Andrew Klump",
+      "Spyridon Pavlidis",
+      "Ronny Kirste"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0065935",
+    "title": "Role of oxygen diffusion in the dislocation reduction of epitaxial AlN on sapphire during high-temperature annealing",
+    "year": 2021,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Leonardo Cancellara",
+      "T. Markurt",
+      "Tobias Schulz",
+      "M. Albrecht",
+      "Sylvia Hagedorn",
+      "Sebastian Walde",
+      "M. Weyers",
+      "Shun Washiyama",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0035957",
+    "title": "Self-compensation in heavily Ge doped AlGaN: A comparison to Si doping",
+    "year": 2021,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Shun Washiyama",
+      "Kelsey J. Mirrielees",
+      "Pegah Bagheri",
+      "Jonathon N. Baker",
+      "Jihyun Kim",
+      "Qiang Guo",
+      "Ronny Kirste",
+      "Yan Guan",
+      "M. Hayden Breckenridge",
+      "Andrew Klump"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1557/s43578-021-00443-8",
+    "title": "Status of the growth and fabrication of AlGaN-based UV laser diodes for near and mid-UV wavelength",
+    "year": 2021,
+    "journal": "JOURNAL OF MATERIALS RESEARCH",
+    "authors": [
+      "Ronny Kirste",
+      "Biplab Sarkar",
+      "Pramod Reddy",
+      "Qiang Guo",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0062831",
+    "title": "Study on avalanche breakdown and Poole-Frenkel emission in Al-rich AlGaN grown on single crystal AlN",
+    "year": 2021,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Pramod Reddy",
+      "Dolar Khachariya",
+      "Will Mecouch",
+      "M. Hayden Breckenridge",
+      "Pegah Bagheri",
+      "Yan Guan",
+      "Ji Hyun Kim",
+      "Spyridon Pavlidis",
+      "Ronny Kirste",
+      "Seiji Mita"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsami.1c14591",
+    "title": "Substrate Modification during Chemical Vapor Deposition of hBN on Sapphire",
+    "year": 2021,
+    "journal": "ACS APPLIED MATERIALS & INTERFACES",
+    "authors": [
+      "Anushka Bansal",
+      "Maria Hilse",
+      "Benjamin Huet",
+      "Ke Wang",
+      "Azimkhan Kozhakhmetov",
+      "Ji Hyun Kim",
+      "Saiphaneendra Bachu",
+      "Nasim Alem",
+      "Ram\u00f3n Collazo",
+      "Joshua A. Robinson"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0055409",
+    "title": "Temperature dependence of electronic bands in Al/GaN by utilization of invariant deep defect transition energies",
+    "year": 2021,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Ji Hyun Kim",
+      "Pegah Bagheri",
+      "Shun Washiyama",
+      "Andrew Klump",
+      "Ronny Kirste",
+      "Seiji Mita",
+      "Pramod Reddy",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adma.202004655",
+    "title": "Tuning Microbial Activity via Programmatic Alteration of Cell/Substrate Interfaces",
+    "year": 2021,
+    "journal": "ADVANCED MATERIALS",
+    "authors": [
+      "Alexey V. Gulyuk",
+      "Dennis LaJeunesse",
+      "Ram\u00f3n Collazo",
+      "Albena Ivanisevic"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1109/rws50353.2021.9360392",
+    "title": "UV illumination effects on AlGaN/GaN HEMTs for tunable RF oscillators",
+    "year": 2021,
+    "journal": "2021 IEEE RADIO AND WIRELESS SYMPOSIUM (RWS)",
+    "authors": [
+      "Shane Stein",
+      "M. C. Robbins",
+      "Pramod Reddy",
+      "Ram\u00f3n Collazo",
+      "Spyridon Pavlidis"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0042098",
+    "title": "Weak localization and dimensional crossover in compositionally graded AlxGa1-xN",
+    "year": 2021,
+    "journal": "APPLIED PHYSICS LETTERS",
+    "authors": [
+      "Athby H. Al\u2010Tawhid",
+      "Abdullah Al Shafe",
+      "Pegah Bagheri",
+      "Yan Guan",
+      "Pramod Reddy",
+      "Seiji Mita",
+      "Baxter Moody",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar",
+      "Kaveh Ahadi"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1149/09806.0069ecst",
+    "title": "(Invited) A Path Toward Vertical GaN Superjunction Devices",
+    "year": 2020,
+    "journal": "ECS Transactions",
+    "authors": [
+      "Dolar Khachariya",
+      "Dennis Szymanski",
+      "Pramod Reddy",
+      "E. Kohn",
+      "Zlatko Sitar",
+      "Ram\u00f3n Collazo",
+      "Spyridon Pavlidis"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0019863",
+    "title": "Cathodoluminescence of silicon doped aluminum nitride with scanning transmission electron microscopy",
+    "year": 2020,
+    "journal": "APL MATERIALS",
+    "authors": [
+      "Matthew R. Hauwiller",
+      "David Stowe",
+      "Tim B. Eldred",
+      "Seiji Mita",
+      "Ram\u00f3n Collazo",
+      "Zlatko Sitar",
+      "James M. LeBeau"
+    ],
+    "citation_count": 0
+  }
+]

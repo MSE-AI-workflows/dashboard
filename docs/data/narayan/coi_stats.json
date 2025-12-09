@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 58,
+    "internal_count": 24,
+    "internal_percentage": 41.37931034482759,
+    "external_count": 34,
+    "external_percentage": 58.620689655172406,
+    "network_density": 0.136,
+    "recent_collaborations_2years": 14
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5045693927",
+      "name": "Roger J. Narayan",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 20,
+      "years": "2025,2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5027728698",
+      "name": "Pratik Joshi",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 13,
+      "years": "2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5052335627",
+      "name": "Parand R. Riley",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 11,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5007073976",
+      "name": "Siddharth Gupta",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 10,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5042480988",
+      "name": "Nayna Khosla",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 9,
+      "years": "2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5025377132",
+      "name": "Naveen Joshi",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5069574851",
+      "name": "Ritesh Sachan",
+      "institution": "Oklahoma State University",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5060350655",
+      "name": "Shubhangi Shukla",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065585208",
+      "name": "M. Paranthaman",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5005804142",
+      "name": "Xiao\u2010Guang Sun",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5021720302",
+      "name": "Ariful Haque",
+      "institution": "Texas State University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5033612768",
+      "name": "Siba Sundar Sahoo",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5075239654",
+      "name": "Amiya Bhaumik",
+      "institution": "Intel (United States)",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5083744239",
+      "name": "Saif Taqy",
+      "institution": "Texas State University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5103000849",
+      "name": "Soumya Mandal",
+      "institution": "Oklahoma State University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047133596",
+      "name": "William J. Weber",
+      "institution": "University of Tennessee at Knoxville",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5036817331",
+      "name": "Ping Lu",
+      "institution": "Sandia National Laboratories",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5104234250",
+      "name": "Pranay Bhaskar Kalakonda",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2025"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5108088289",
+      "name": "Roger J. Narayan",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5077751369",
+      "name": "Sumeer Khanna",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2025"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Oklahoma State University",
+      "collaborator_count": 5,
+      "paper_count": 8
+    },
+    {
+      "institution": "Purdue University West Lafayette",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Oak Ridge National Laboratory",
+      "collaborator_count": 4,
+      "paper_count": 9
+    },
+    {
+      "institution": "The University of Texas at Austin",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Texas State University",
+      "collaborator_count": 2,
+      "paper_count": 4
+    },
+    {
+      "institution": "North Dakota State University",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Los Alamos National Laboratory",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Center for Devices and Radiological Health",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Texas A&M University",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "University of Tennessee at Knoxville",
+      "collaborator_count": 1,
+      "paper_count": 1
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 16,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 62,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 73,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 75,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 53,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 35,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 55
+    },
+    {
+      "country": "Other",
+      "count": 3
+    }
+  ]
+}

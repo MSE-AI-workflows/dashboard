@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "total_papers": 14,
+    "total_categories": 4
+  },
+  "categories": [
+    {
+      "category": "biopolymer",
+      "count": 6,
+      "papers": [
+        "10.1007/s11103-025-01615-4",
+        "10.1007/s10570-023-05691-x",
+        "10.1016/j.str.2023.07.010",
+        "10.1021/acsbiomaterials.2c00088",
+        "10.1021/acs.biomac.2c00550",
+        "10.1002/pld3.335"
+      ],
+      "percentage": 42.857142857142854
+    },
+    {
+      "category": "polymer",
+      "count": 5,
+      "papers": [
+        "10.1063/5.0214285",
+        "10.1016/j.matt.2023.12.021",
+        "10.1039/d2sm01001a",
+        "10.1021/acs.macromol.2c01735",
+        "10.1021/acsami.3c03012"
+      ],
+      "percentage": 35.714285714285715
+    },
+    {
+      "category": "others",
+      "count": 2,
+      "papers": [
+        "10.1021/acs.jpcb.3c03910",
+        "10.1021/acs.jcim.0c01204"
+      ],
+      "percentage": 14.285714285714285
+    },
+    {
+      "category": "composite",
+      "count": 1,
+      "papers": [
+        "10.1021/acs.jpcb.5c00590"
+      ],
+      "percentage": 7.142857142857142
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "biopolymer": 1,
+      "polymer": 0,
+      "others": 1,
+      "composite": 0
+    },
+    {
+      "year": 2022,
+      "biopolymer": 1,
+      "polymer": 0,
+      "others": 0,
+      "composite": 0
+    },
+    {
+      "year": 2023,
+      "biopolymer": 2,
+      "polymer": 3,
+      "others": 1,
+      "composite": 0
+    },
+    {
+      "year": 2024,
+      "biopolymer": 1,
+      "polymer": 2,
+      "others": 0,
+      "composite": 0
+    },
+    {
+      "year": 2025,
+      "biopolymer": 1,
+      "polymer": 0,
+      "others": 0,
+      "composite": 1
+    }
+  ]
+}

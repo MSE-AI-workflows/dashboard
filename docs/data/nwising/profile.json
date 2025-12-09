@@ -1,0 +1,15 @@
+{
+  "unity_id": "nwising",
+  "name": "Nina Balke",
+  "first_name": "Nina",
+  "last_name": "Balke",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5040605757",
+  "stats": {
+    "total_publications": 148,
+    "recent_publications": 31,
+    "total_collaborators": 129,
+    "total_categories": 6,
+    "external_percentage": 85.3
+  }
+}

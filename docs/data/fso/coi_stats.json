@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 140,
+    "internal_count": 71,
+    "internal_percentage": 50.71428571428571,
+    "external_count": 69,
+    "external_percentage": 49.28571428571429,
+    "network_density": 0.123,
+    "recent_collaborations_2years": 13
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5000760073",
+      "name": "Kenan G\u00fcndo\u011fdu",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 13,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5043462335",
+      "name": "Qi Dong",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 12,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5006159754",
+      "name": "Carr Hoi Yi Ho",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5060717781",
+      "name": "Harald Ade",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2025,2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5000349812",
+      "name": "Liping Zhu",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5075904864",
+      "name": "Dovletgeldi Seyitliyev",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5077745794",
+      "name": "Chih\u2010Hao Chang",
+      "institution": "The University of Texas at Austin",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5078992447",
+      "name": "Juliana Mendes",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5101754024",
+      "name": "Lei Lei",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100659452",
+      "name": "Wei You",
+      "institution": "University of North Carolina at Chapel Hill",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2025,2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5035652561",
+      "name": "Aram Amassian",
+      "institution": "University of Colorado Boulder",
+      "node_type": "faculty",
+      "collaboration_count": 6,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5031309718",
+      "name": "Shichen Yin",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 6,
+      "years": "2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5043483107",
+      "name": "Yash Mehta",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 6,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100626877",
+      "name": "Yi\u2010An Chen",
+      "institution": "Walker (United States)",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5073533457",
+      "name": "Nilesh Barange",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5113799070",
+      "name": "Xueping Yi",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5052226964",
+      "name": "Somayeh Kashani",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5017741338",
+      "name": "Stephen Amoah",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5004155616",
+      "name": "Siliang He",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5011172450",
+      "name": "Yusuf Olanrewaju",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2025"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Florida State University",
+      "collaborator_count": 9,
+      "paper_count": 9
+    },
+    {
+      "institution": "University of Washington",
+      "collaborator_count": 6,
+      "paper_count": 8
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "collaborator_count": 5,
+      "paper_count": 16
+    },
+    {
+      "institution": "King Abdullah University of Science and Technology",
+      "collaborator_count": 5,
+      "paper_count": 12
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "collaborator_count": 4,
+      "paper_count": 7
+    },
+    {
+      "institution": "The University of Texas at Austin",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Centre National de la Recherche Scientifique",
+      "collaborator_count": 3,
+      "paper_count": 6
+    },
+    {
+      "institution": "Walker (United States)",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "University of Colorado Boulder",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Australian Centre for Advanced Photovoltaics",
+      "collaborator_count": 3,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 113,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 112,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 102,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 51,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 43,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 46,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 124
+    },
+    {
+      "country": "Other",
+      "count": 16
+    }
+  ]
+}

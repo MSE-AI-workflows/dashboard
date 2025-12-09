@@ -1,0 +1,15 @@
+{
+  "unity_id": "bgwalan",
+  "name": "Bharat Gwalani",
+  "first_name": "Bharat",
+  "last_name": "Gwalani",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5018545542",
+  "stats": {
+    "total_publications": 150,
+    "recent_publications": 95,
+    "total_collaborators": 291,
+    "total_categories": 5,
+    "external_percentage": 93.1
+  }
+}

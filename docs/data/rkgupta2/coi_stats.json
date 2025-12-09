@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 123,
+    "internal_count": 23,
+    "internal_percentage": 18.69918699186992,
+    "external_count": 100,
+    "external_percentage": 81.30081300813008,
+    "network_density": 0.085,
+    "recent_collaborations_2years": 17
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5019076030",
+      "name": "J. Christudasjustus",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 25,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5002216207",
+      "name": "Tushar Borkar",
+      "institution": "Cleveland State University",
+      "node_type": "external",
+      "collaboration_count": 23,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5091858516",
+      "name": "C.S. Witharamage",
+      "institution": "University of Virginia",
+      "node_type": "external",
+      "collaboration_count": 16,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5083907065",
+      "name": "Ahmed A Darwish",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 15,
+      "years": "2025,2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5011391313",
+      "name": "Venkata Bhuvaneswari Vukkum",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 14,
+      "years": "2025,2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5014093983",
+      "name": "M.U. Farooq Khan",
+      "institution": "University of Akron",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5079935687",
+      "name": "Furkan \u00d6zdemir",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 9,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5012564398",
+      "name": "Ganesh Walunj",
+      "institution": "Cleveland State University",
+      "node_type": "external",
+      "collaboration_count": 9,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5077283147",
+      "name": "Amit Patil",
+      "institution": "Cleveland State University",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5070690270",
+      "name": "A. Helmer",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5036909736",
+      "name": "Mohammadreza Daroonparvar",
+      "institution": "University of Nevada, Reno",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5038073010",
+      "name": "Taban Larimian",
+      "institution": "Cleveland State University",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065706557",
+      "name": "N. Birbilis",
+      "institution": "Australian National University",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5016343376",
+      "name": "Ashish K. Kasar",
+      "institution": "University of Nevada, Reno",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5019052373",
+      "name": "S.P. O\u2019Brien",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 6,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5054868206",
+      "name": "Pradeep L. Menezes",
+      "institution": "University of Nevada, Reno",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5002364378",
+      "name": "Andy Nieto",
+      "institution": "Naval Postgraduate School",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065567503",
+      "name": "Steven Storck",
+      "institution": "Unknown",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5088367997",
+      "name": "Luiza Esteves",
+      "institution": "University of Akron",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5109055828",
+      "name": "M. Misra",
+      "institution": "University of Nevada, Reno",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2023,2020"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Unknown",
+      "collaborator_count": 17,
+      "paper_count": 22
+    },
+    {
+      "institution": "University of Akron",
+      "collaborator_count": 13,
+      "paper_count": 16
+    },
+    {
+      "institution": "Cleveland State University",
+      "collaborator_count": 12,
+      "paper_count": 36
+    },
+    {
+      "institution": "University of Nevada, Reno",
+      "collaborator_count": 8,
+      "paper_count": 16
+    },
+    {
+      "institution": "University of North Texas",
+      "collaborator_count": 5,
+      "paper_count": 18
+    },
+    {
+      "institution": "Monash University",
+      "collaborator_count": 4,
+      "paper_count": 5
+    },
+    {
+      "institution": "Naval Postgraduate School",
+      "collaborator_count": 4,
+      "paper_count": 10
+    },
+    {
+      "institution": "Central South University",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "The Ohio State University",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Aerospace Research Institute of Materials and Processing Technology",
+      "collaborator_count": 3,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 118,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 159,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 149,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 166,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 120,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 71,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 94
+    },
+    {
+      "country": "Other",
+      "count": 29
+    }
+  ]
+}

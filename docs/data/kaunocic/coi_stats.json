@@ -1,0 +1,271 @@
+{
+  "overview": {
+    "total_collaborators": 240,
+    "internal_count": 2,
+    "internal_percentage": 0.8333333333333334,
+    "external_count": 238,
+    "external_percentage": 99.16666666666667,
+    "network_density": 0.068,
+    "recent_collaborations_2years": 17
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5077275227",
+      "name": "Susan E. Habas",
+      "institution": "National Renewable Energy Laboratory",
+      "node_type": "external",
+      "collaboration_count": 14,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5032584004",
+      "name": "Lawrence F. Allard",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5055795394",
+      "name": "Evan C. Wegener",
+      "institution": "Argonne National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5101605105",
+      "name": "Zhenglong Li",
+      "institution": "Quzhou University",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100606711",
+      "name": "Junyan Zhang",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 9,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5008770916",
+      "name": "Michael B. Griffin",
+      "institution": "National Renewable Energy Laboratory",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5109856436",
+      "name": "Theodore R. Krause",
+      "institution": "Argonne National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2025,2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5085145957",
+      "name": "Qianying Guo",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061707133",
+      "name": "Harry M. Meyer",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5059364798",
+      "name": "Joshua A. Schaidle",
+      "institution": "National Renewable Energy Laboratory",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5028274864",
+      "name": "Stephen C. Purdy",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2025,2024,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5035504953",
+      "name": "Derek R. Vardon",
+      "institution": "National Renewable Energy Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5026571515",
+      "name": "James W. Harris",
+      "institution": "University of Alabama",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5049479930",
+      "name": "Davis R. Conklin",
+      "institution": "National Renewable Energy Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5103208454",
+      "name": "Andrew D. Sutton",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5089475997",
+      "name": "Michael J. Cordon",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5021781650",
+      "name": "Daniel A. Ruddy",
+      "institution": "National Renewable Energy Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2023,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5072197252",
+      "name": "Nohor \u201cRiver\u201d Samad",
+      "institution": "University of Alabama",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5023735477",
+      "name": "Jeffrey T. Miller",
+      "institution": "Universit\u00e9 Bourgogne Franche-Comt\u00e9",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5088103067",
+      "name": "Dongxia Liu",
+      "institution": "University of Maryland, College Park",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2022,2021"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Oak Ridge National Laboratory",
+      "collaborator_count": 70,
+      "paper_count": 137
+    },
+    {
+      "institution": "National Renewable Energy Laboratory",
+      "collaborator_count": 53,
+      "paper_count": 110
+    },
+    {
+      "institution": "Argonne National Laboratory",
+      "collaborator_count": 10,
+      "paper_count": 26
+    },
+    {
+      "institution": "Unknown",
+      "collaborator_count": 10,
+      "paper_count": 10
+    },
+    {
+      "institution": "Pacific Northwest National Laboratory",
+      "collaborator_count": 8,
+      "paper_count": 14
+    },
+    {
+      "institution": "Universit\u00e9 Bourgogne Franche-Comt\u00e9",
+      "collaborator_count": 6,
+      "paper_count": 6
+    },
+    {
+      "institution": "National Transportation Research Center",
+      "collaborator_count": 5,
+      "paper_count": 5
+    },
+    {
+      "institution": "Forge Nano (United States)",
+      "collaborator_count": 5,
+      "paper_count": 5
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Johnson Matthey (United Kingdom)",
+      "collaborator_count": 3,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 105,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 132,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 130,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 100,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 78,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 59,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 145
+    },
+    {
+      "country": "Other",
+      "count": 94
+    },
+    {
+      "country": "Germany",
+      "count": 1
+    }
+  ]
+}

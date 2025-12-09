@@ -1,0 +1,110 @@
+{
+  "summary": {
+    "total_papers": 37,
+    "total_categories": 4
+  },
+  "categories": [
+    {
+      "category": "nano_materials",
+      "count": 16,
+      "papers": [
+        "10.1002/pssr.202400398",
+        "10.1557/s43579-025-00701-4",
+        "10.1039/d3ma00636k",
+        "10.1021/acsanm.2c05098",
+        "10.1007/s11051-023-05897-x",
+        "10.1557/s43579-023-00381-y",
+        "10.1016/j.carbon.2022.03.003",
+        "10.3390/cryst12050615",
+        "10.3390/nano12152718",
+        "10.1021/acsami.2c09096",
+        "10.1021/acsomega.2c03501",
+        "10.1016/j.diamond.2021.108481",
+        "10.1088/1361-6528/ac1097",
+        "10.3390/cryst11111308",
+        "10.1080/21663831.2021.1973131",
+        "10.1080/21663831.2021.1907627"
+      ],
+      "percentage": 43.24324324324324
+    },
+    {
+      "category": "others",
+      "count": 10,
+      "papers": [
+        "10.3390/c10010014",
+        "10.3390/app142210679",
+        "10.1016/j.tsf.2024.140227",
+        "10.1016/j.carbon.2023.01.009",
+        "10.1149/1945-7111/acc27d",
+        "10.1021/acsami.2c18918",
+        "10.1021/acsami.1c24978",
+        "10.1016/j.carbon.2021.10.006",
+        "10.3390/cryst11121493",
+        "10.1016/j.carbon.2021.02.049"
+      ],
+      "percentage": 27.027027027027028
+    },
+    {
+      "category": "semiconductor",
+      "count": 8,
+      "papers": [
+        "10.1007/s11664-024-11171-0",
+        "10.1063/5.0224007",
+        "10.1080/21663831.2023.2224396",
+        "10.1557/s43578-023-01264-7",
+        "10.1016/j.carbon.2022.06.003",
+        "10.1111/ijac.14107",
+        "10.3390/polym13203543",
+        "10.1016/j.diamond.2021.108630"
+      ],
+      "percentage": 21.62162162162162
+    },
+    {
+      "category": "polymer",
+      "count": 3,
+      "papers": [
+        "10.1002/admi.202500614",
+        "10.1007/s11664-025-11847-1",
+        "10.1039/d1tc05176h"
+      ],
+      "percentage": 8.108108108108109
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "nano_materials": 5,
+      "others": 2,
+      "semiconductor": 2,
+      "polymer": 0
+    },
+    {
+      "year": 2022,
+      "nano_materials": 5,
+      "others": 3,
+      "semiconductor": 2,
+      "polymer": 1
+    },
+    {
+      "year": 2023,
+      "nano_materials": 3,
+      "others": 2,
+      "semiconductor": 2,
+      "polymer": 0
+    },
+    {
+      "year": 2024,
+      "nano_materials": 1,
+      "others": 3,
+      "semiconductor": 2,
+      "polymer": 0
+    },
+    {
+      "year": 2025,
+      "nano_materials": 2,
+      "others": 0,
+      "semiconductor": 0,
+      "polymer": 2
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 106,
+    "internal_count": 25,
+    "internal_percentage": 23.58490566037736,
+    "external_count": 81,
+    "external_percentage": 76.41509433962264,
+    "network_density": 0.14,
+    "recent_collaborations_2years": 19
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5046770281",
+      "name": "Yaroslava G. Yingling",
+      "institution": "North Carolina State University",
+      "node_type": "faculty",
+      "collaboration_count": 19,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047185875",
+      "name": "Seong H. Kim",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5026548048",
+      "name": "Candace H. Haigler",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2025,2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5088566394",
+      "name": "Alison W. Roberts",
+      "institution": "University of Rhode Island",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5057814149",
+      "name": "Abhishek Singh",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5044220672",
+      "name": "Benedetta Marmiroli",
+      "institution": "Graz University of Technology",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024,2023,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5024915414",
+      "name": "Preeta Pratakshya",
+      "institution": "University of California, Irvine",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024,2023,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5033530074",
+      "name": "Barbara Sartori",
+      "institution": "Graz University of Technology",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024,2023,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5088247639",
+      "name": "Atrouli Chatterjee",
+      "institution": "University of California, Irvine",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024,2023,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5046566896",
+      "name": "Adrienne D. Stiff\u2010Roberts",
+      "institution": "Duke University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022830421",
+      "name": "George G. Malliaras",
+      "institution": "University of Cambridge",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5035652561",
+      "name": "Aram Amassian",
+      "institution": "University of Colorado Boulder",
+      "node_type": "faculty",
+      "collaboration_count": 2,
+      "years": "2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5037089460",
+      "name": "Kyle L. Naughton",
+      "institution": "University of California, Irvine",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5108053323",
+      "name": "Hui Yang",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5049808922",
+      "name": "Ethan T. Pierce",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2025,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5082649342",
+      "name": "Matic Kova\u010di\u010d",
+      "institution": "National Institute of Chemistry",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5000875312",
+      "name": "Sanggil Han",
+      "institution": "University of Cambridge",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5016341553",
+      "name": "Ruipeng Li",
+      "institution": "Brookhaven National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5049401505",
+      "name": "Sigrid Bernstorff",
+      "institution": "Elettra-Sincrotrone Trieste S.C.p.A.",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5012731755",
+      "name": "Masoud Ghasemi",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2022"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Pennsylvania State University",
+      "collaborator_count": 20,
+      "paper_count": 29
+    },
+    {
+      "institution": "University of California, Irvine",
+      "collaborator_count": 20,
+      "paper_count": 28
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "collaborator_count": 7,
+      "paper_count": 7
+    },
+    {
+      "institution": "Eastman Chemical Company (United States)",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Duke University",
+      "collaborator_count": 3,
+      "paper_count": 5
+    },
+    {
+      "institution": "University of Cambridge",
+      "collaborator_count": 3,
+      "paper_count": 4
+    },
+    {
+      "institution": "National Institute of Chemistry",
+      "collaborator_count": 3,
+      "paper_count": 4
+    },
+    {
+      "institution": "Irvine University",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Rockefeller University",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Graz University of Technology",
+      "collaborator_count": 2,
+      "paper_count": 6
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 53,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 37,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 35,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 39,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 59,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 33,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 100
+    },
+    {
+      "country": "Other",
+      "count": 6
+    }
+  ]
+}

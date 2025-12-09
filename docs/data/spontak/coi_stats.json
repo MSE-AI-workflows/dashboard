@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 76,
+    "internal_count": 28,
+    "internal_percentage": 36.84210526315789,
+    "external_count": 48,
+    "external_percentage": 63.1578947368421,
+    "network_density": 0.107,
+    "recent_collaborations_2years": 14
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5101644205",
+      "name": "Jiaqi Yan",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2024,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5074039382",
+      "name": "Liyuan Deng",
+      "institution": "Norwegian University of Science and Technology",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2023,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5053648349",
+      "name": "Reza A. Ghiladi",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5004316876",
+      "name": "Bharadwaja S. T. Peddinti",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5034112584",
+      "name": "Zhongde Dai",
+      "institution": "Sichuan University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2023,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100781957",
+      "name": "Jing Deng",
+      "institution": "Norwegian University of Science and Technology",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5112557629",
+      "name": "Soo-Ah Jin",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5040009460",
+      "name": "Kacie M. Wells",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5034125837",
+      "name": "Orlando J. Rojas",
+      "institution": "University of British Columbia",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5057080078",
+      "name": "Frank Scholle",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5058524150",
+      "name": "Saad A. Khan",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5066771968",
+      "name": "Lucian A. Lucia",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2025,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5017347660",
+      "name": "Zikang Qin",
+      "institution": "Sichuan University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2025,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5030865066",
+      "name": "Julio E. Ter\u00e1n",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2025,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5036505849",
+      "name": "Mohammad Shamsi",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047680847",
+      "name": "Steven D. Smith",
+      "institution": "Procter & Gamble (United States)",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5063403724",
+      "name": "Lokendra Pal",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2025,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5067847929",
+      "name": "Emily G. Facchine",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5083975325",
+      "name": "Michael D. Dickey",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5102759473",
+      "name": "Yulei Ma",
+      "institution": "Sichuan University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2025,2023"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Sichuan University",
+      "collaborator_count": 7,
+      "paper_count": 11
+    },
+    {
+      "institution": "University of Oregon",
+      "collaborator_count": 5,
+      "paper_count": 5
+    },
+    {
+      "institution": "Norwegian University of Science and Technology",
+      "collaborator_count": 4,
+      "paper_count": 8
+    },
+    {
+      "institution": "Kraton (United States)",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Prince of Songkla University",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Meiji University",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Argonne National Laboratory",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "SINTEF",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Kansas State University",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Boston University",
+      "collaborator_count": 2,
+      "paper_count": 2
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 24,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 30,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 9,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 39,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 12,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 27,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 69
+    },
+    {
+      "country": "Other",
+      "count": 7
+    }
+  ]
+}

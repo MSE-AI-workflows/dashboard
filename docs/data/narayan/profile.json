@@ -1,0 +1,15 @@
+{
+  "unity_id": "narayan",
+  "name": "Jagdish Narayan",
+  "first_name": "Jagdish",
+  "last_name": "Narayan",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5010567856",
+  "stats": {
+    "total_publications": 426,
+    "recent_publications": 38,
+    "total_collaborators": 58,
+    "total_categories": 4,
+    "external_percentage": 58.6
+  }
+}

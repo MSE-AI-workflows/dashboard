@@ -1,0 +1,262 @@
+[
+  {
+    "doi": "10.1103/physrevmaterials.9.053601",
+    "title": "Interfacial defect properties of high-entropy carbides: Stacking faults, Shockley partial dislocations, and a new Evans-Polanyi-Semenov relation",
+    "year": 2025,
+    "journal": "PHYSICAL REVIEW MATERIALS",
+    "authors": [
+      "Samuel Daigle",
+      "Stefano Curtarolo",
+      "William G. Fahrenholtz",
+      "Jon-Paul Maria",
+      "Douglas E. Wolfe",
+      "Eva Zurek",
+      "Donald W. Brenner"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1016/j.actamat.2024.119667",
+    "title": "A priori procedure to establish spinodal decomposition in alloys",
+    "year": 2024,
+    "journal": "ACTA MATERIALIA",
+    "authors": [
+      "Simon Divilov",
+      "Hagen Eckert",
+      "Cormac Toher",
+      "Rico Friedrich",
+      "Adam C. Zettel",
+      "Donald W. Brenner",
+      "William G. Fahrenholtz",
+      "Douglas A. Wolfe",
+      "Eva Zurek",
+      "Jon\u2010Paul Maria"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1111/jace.19795",
+    "title": "A super-hard high entropy boride containing Hf, Mo, Ti, V, and W",
+    "year": 2024,
+    "journal": "JOURNAL OF THE AMERICAN CERAMIC SOCIETY",
+    "authors": [
+      "Suzana Filipovi\u0107",
+      "Nina Obradovi\u0107",
+      "Gregory E. Hilmas",
+      "William G. Fahrenholtz",
+      "Donald W. Brenner",
+      "Jon\u2010Paul Maria",
+      "Douglas E. Wolfe",
+      "Eva Zurek",
+      "Xiomara Campilongo",
+      "Stefano Curtarolo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1111/jace.20257",
+    "title": "Bipolar HiPIMS kick-pulse for high hardness in high-entropy boride thin films",
+    "year": 2024,
+    "journal": "JOURNAL OF THE AMERICAN CERAMIC SOCIETY",
+    "authors": [
+      "Nathaniel S. McIlwaine",
+      "Nestor O. Marquez Rios",
+      "Eva Zurek",
+      "Donald W. Brenner",
+      "William G. Fahrenholtz",
+      "Stefano Curtarolo",
+      "Douglas E. Wolfe",
+      "Jon\u2010Paul Maria"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41586-023-06786-y",
+    "title": "Disordered enthalpy-entropy descriptor for high-entropy ceramics discovery",
+    "year": 2024,
+    "journal": "NATURE",
+    "authors": [
+      "Simon Divilov",
+      "Hagen Eckert",
+      "David Hicks",
+      "Corey Oses",
+      "Cormac Toher",
+      "Rico Friedrich",
+      "Marco Esters",
+      "Michael J. Mehl",
+      "Adam C. Zettel",
+      "Yoav Lederer"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41524-024-01321-7",
+    "title": "Machine learned interatomic potentials for ternary carbides trained on the AFLOW database",
+    "year": 2024,
+    "journal": "NPJ COMPUTATIONAL MATERIALS",
+    "authors": [
+      "Josiah Roberts",
+      "Biswas Rijal",
+      "Simon Divilov",
+      "Jon\u2010Paul Maria",
+      "William G. Fahrenholtz",
+      "Douglas A. Wolfe",
+      "Donald W. Brenner",
+      "Stefano Curtarolo",
+      "Eva Zurek"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1016/j.commatsci.2023.112255",
+    "title": "Predicting properties of high entropy carbides from their respective binaries",
+    "year": 2023,
+    "journal": "COMPUTATIONAL MATERIALS SCIENCE",
+    "authors": [
+      "Mina Lim",
+      "Donald W. Brenner"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1557/s43577-022-00281-x",
+    "title": "High-entropy ceramics: Propelling applications through disorder",
+    "year": 2022,
+    "journal": "MRS BULLETIN",
+    "authors": [
+      "Cormac Toher",
+      "Corey Oses",
+      "Marco Esters",
+      "David Hicks",
+      "George N. Kotsonis",
+      "Christina M. Rost",
+      "Donald W. Brenner",
+      "Jon\u2010Paul Maria",
+      "Stefano Curtarolo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.3390/met12122036",
+    "title": "The Challenges of Modeling Defect Behavior and Plasticity across Spatial and Temporal Scales: A Case Study of Metal Bilayer Impact",
+    "year": 2022,
+    "journal": "METALS",
+    "authors": [
+      "Leah Granger",
+      "Muh-Jang Chen",
+      "Donald W. Brenner",
+      "M.A. Zikry"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1016/j.actamat.2021.117051",
+    "title": "Carbon stoichiometry and mechanical properties of high entropy carbides",
+    "year": 2021,
+    "journal": "ACTA MATERIALIA",
+    "authors": [
+      "Mohammad Delower Hossain",
+      "Trent Borman",
+      "Abinash Kumar",
+      "X. Chen",
+      "Ali Khosravani",
+      "Surya R. Kalidindi",
+      "Elizabeth A. Paisley",
+      "Marco Esters",
+      "Corey Oses",
+      "Cormac Toher"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1002/adma.202102904",
+    "title": "Entropy Landscaping of High-Entropy Carbides",
+    "year": 2021,
+    "journal": "ADVANCED MATERIALS",
+    "authors": [
+      "Mohammad Delower Hossain",
+      "Trent Borman",
+      "Corey Oses",
+      "Marco Esters",
+      "Cormac Toher",
+      "Lun Feng",
+      "Abinash Kumar",
+      "William G. Fahrenholtz",
+      "Stefano Curtarolo",
+      "Donald W. Brenner"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1146/annurev-matsci-080819-121217",
+    "title": "High-Entropy Ultra-High-Temperature Borides and Carbides: A New Class of Materials for Extreme Environments",
+    "year": 2021,
+    "journal": "ANNUAL REVIEW OF MATERIALS RESEARCH, VOL 51, 2021",
+    "authors": [
+      "Lun Feng",
+      "William G. Fahrenholtz",
+      "Donald W. Brenner"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1038/s41467-021-25979-5",
+    "title": "Settling the matter of the role of vibrations in the stability of high-entropy carbides",
+    "year": 2021,
+    "journal": "NATURE COMMUNICATIONS",
+    "authors": [
+      "Marco Esters",
+      "Corey Oses",
+      "David Hicks",
+      "Michael J. Mehl",
+      "Michal Jahn\u00e1tek",
+      "Mohammad Delower Hossain",
+      "Jon\u2010Paul Maria",
+      "Donald W. Brenner",
+      "Cormac Toher",
+      "Stefano Curtarolo"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1021/acsomega.0c00073",
+    "title": "Dynamics of Neutral and Charged Nanodiamonds in Aqueous Media Confined between Gold Surfaces under Normal and Shear Loading",
+    "year": 2020,
+    "journal": "ACS OMEGA",
+    "authors": [
+      "Liangliang Su",
+      "J. Krim",
+      "Donald W. Brenner"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1016/j.actamat.2020.06.005",
+    "title": "Electron and phonon thermal conductivity in high entropy carbides with variable carbon content",
+    "year": 2020,
+    "journal": "ACTA MATERIALIA",
+    "authors": [
+      "Christina M. Rost",
+      "Trent Borman",
+      "Mohammad Delower Hossain",
+      "Mina Lim",
+      "Kathleen Quiambao-Tomko",
+      "John A. Tomko",
+      "Donald W. Brenner",
+      "Jon\u2010Paul Maria",
+      "Patrick E. Hopkins"
+    ],
+    "citation_count": 0
+  },
+  {
+    "doi": "10.1063/5.0008258",
+    "title": "Exchange interactions and long-range magnetic order in the (Mg,Co,Cu,Ni,Zn)O entropy-stabilized oxide: A theoretical investigation",
+    "year": 2020,
+    "journal": "JOURNAL OF APPLIED PHYSICS",
+    "authors": [
+      "Zsolt Rak",
+      "Donald W. Brenner"
+    ],
+    "citation_count": 0
+  }
+]

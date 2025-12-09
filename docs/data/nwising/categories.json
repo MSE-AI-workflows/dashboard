@@ -1,0 +1,119 @@
+{
+  "summary": {
+    "total_papers": 22,
+    "total_categories": 6
+  },
+  "categories": [
+    {
+      "category": "others",
+      "count": 7,
+      "papers": [
+        "10.1063/5.0253879",
+        "10.1149/ma2024-01512758mtgabs",
+        "10.1021/acsami.3c02055",
+        "10.1002/elsa.202100038",
+        "10.1039/d1cc01681d",
+        "10.1038/s41563-021-01066-4",
+        "10.1126/sciadv.abd7394"
+      ],
+      "percentage": 31.818181818181817
+    },
+    {
+      "category": "ceramic",
+      "count": 5,
+      "papers": [
+        "10.1021/acsnano.4c13475",
+        "10.1038/s41467-025-63041-w",
+        "10.1149/ma2024-026734mtgabs",
+        "10.1111/jace.20277",
+        "10.1002/smtd.202001279"
+      ],
+      "percentage": 22.727272727272727
+    },
+    {
+      "category": "metal",
+      "count": 5,
+      "papers": [
+        "10.1021/acsami.1c18683",
+        "10.1021/acsnano.1c08970",
+        "10.1063/5.0096704",
+        "10.26434/chemrxiv-2021-8lc01",
+        "10.1021/acsnano.1c06027"
+      ],
+      "percentage": 22.727272727272727
+    },
+    {
+      "category": "semiconductor",
+      "count": 3,
+      "papers": [
+        "10.1002/aenm.202201199",
+        "10.1149/ma2022-02562145mtgabs",
+        "10.1109/tuffc.2020.3007290"
+      ],
+      "percentage": 13.636363636363635
+    },
+    {
+      "category": "composite",
+      "count": 1,
+      "papers": [
+        "10.1007/s10853-024-10208-3"
+      ],
+      "percentage": 4.545454545454546
+    },
+    {
+      "category": "nano_materials",
+      "count": 1,
+      "papers": [
+        "10.1016/j.coelec.2024.101562"
+      ],
+      "percentage": 4.545454545454546
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "others": 3,
+      "ceramic": 1,
+      "metal": 2,
+      "semiconductor": 1,
+      "composite": 0,
+      "nano_materials": 0
+    },
+    {
+      "year": 2022,
+      "others": 1,
+      "ceramic": 0,
+      "metal": 3,
+      "semiconductor": 2,
+      "composite": 0,
+      "nano_materials": 0
+    },
+    {
+      "year": 2023,
+      "others": 1,
+      "ceramic": 0,
+      "metal": 0,
+      "semiconductor": 0,
+      "composite": 0,
+      "nano_materials": 0
+    },
+    {
+      "year": 2024,
+      "others": 1,
+      "ceramic": 2,
+      "metal": 0,
+      "semiconductor": 0,
+      "composite": 1,
+      "nano_materials": 1
+    },
+    {
+      "year": 2025,
+      "others": 1,
+      "ceramic": 2,
+      "metal": 0,
+      "semiconductor": 0,
+      "composite": 0,
+      "nano_materials": 0
+    }
+  ]
+}

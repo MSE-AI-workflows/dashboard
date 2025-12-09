@@ -1,0 +1,15 @@
+{
+  "unity_id": "dlirving",
+  "name": "Douglas Irving",
+  "first_name": "Douglas",
+  "last_name": "Irving",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5060938733",
+  "stats": {
+    "total_publications": 86,
+    "recent_publications": 17,
+    "total_collaborators": 34,
+    "total_categories": 4,
+    "external_percentage": 26.5
+  }
+}

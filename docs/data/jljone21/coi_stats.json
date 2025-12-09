@@ -1,0 +1,271 @@
+{
+  "overview": {
+    "total_collaborators": 299,
+    "internal_count": 108,
+    "internal_percentage": 36.12040133779264,
+    "external_count": 191,
+    "external_percentage": 63.87959866220736,
+    "network_density": 0.042,
+    "recent_collaborations_2years": 16
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5074155129",
+      "name": "Paul A. Maggard",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 12,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5011084585",
+      "name": "Rachel Broughton",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 12,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100393966",
+      "name": "Young H. Lee",
+      "institution": "Seoul National University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 12,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5003850300",
+      "name": "Thomas Mikolajick",
+      "institution": "NaMLab (Germany)",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 9,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5023007303",
+      "name": "Uwe Schroeder",
+      "institution": "NaMLab (Germany)",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 9,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5029681331",
+      "name": "Shaun O\u2019Donnell",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5112495818",
+      "name": "H. Alex Hsain",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5062810411",
+      "name": "Khara Grieger",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2024,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5066317648",
+      "name": "Ching\u2010Chang Chung",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5086449780",
+      "name": "Gregory N. Parsons",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5086062540",
+      "name": "Monica Materano",
+      "institution": "NaMLab (Germany)",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 6,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5046154411",
+      "name": "Eric A. Gabilondo",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 6,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5051312800",
+      "name": "Patrick D. Lomenzo",
+      "institution": "NaMLab (Germany)",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5009236644",
+      "name": "Rainer P\u00f6ttgen",
+      "institution": "University of M\u00fcnster",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5044647838",
+      "name": "Owen W. Duckworth",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5055698424",
+      "name": "Aylin Koldemir",
+      "institution": "University of M\u00fcnster",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5023979701",
+      "name": "Alexis Payne",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5086183035",
+      "name": "Terence Mittmann",
+      "institution": "NaMLab (Germany)",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5018132118",
+      "name": "Elizabeth C. Dickey",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5041070807",
+      "name": "Rosangela Sozzani",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023,2020"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "University of Virginia",
+      "collaborator_count": 15,
+      "paper_count": 18
+    },
+    {
+      "institution": "Korea Institute of Industrial Technology",
+      "collaborator_count": 10,
+      "paper_count": 10
+    },
+    {
+      "institution": "Jo\u017eef Stefan International Postgraduate School",
+      "collaborator_count": 8,
+      "paper_count": 8
+    },
+    {
+      "institution": "NaMLab (Germany)",
+      "collaborator_count": 6,
+      "paper_count": 15
+    },
+    {
+      "institution": "Alexandru Ioan Cuza University",
+      "collaborator_count": 6,
+      "paper_count": 6
+    },
+    {
+      "institution": "East Carolina University",
+      "collaborator_count": 6,
+      "paper_count": 6
+    },
+    {
+      "institution": "Xi'an Jiaotong University",
+      "collaborator_count": 6,
+      "paper_count": 6
+    },
+    {
+      "institution": "University of Florida",
+      "collaborator_count": 5,
+      "paper_count": 9
+    },
+    {
+      "institution": "Jo\u017eef Stefan Institute",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Arizona State University",
+      "collaborator_count": 4,
+      "paper_count": 6
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 120,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 126,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 122,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 102,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 70,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 23,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 229
+    },
+    {
+      "country": "Other",
+      "count": 59
+    },
+    {
+      "country": "Germany",
+      "count": 11
+    }
+  ]
+}

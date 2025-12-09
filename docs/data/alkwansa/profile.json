@@ -1,0 +1,15 @@
+{
+  "unity_id": "alkwansa",
+  "name": "Albert Kwansa",
+  "first_name": "Albert",
+  "last_name": "Kwansa",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5051476880",
+  "stats": {
+    "total_publications": 25,
+    "recent_publications": 20,
+    "total_collaborators": 106,
+    "total_categories": 4,
+    "external_percentage": 76.4
+  }
+}

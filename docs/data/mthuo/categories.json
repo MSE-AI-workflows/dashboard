@@ -1,0 +1,165 @@
+{
+  "summary": {
+    "total_papers": 44,
+    "total_categories": 8
+  },
+  "categories": [
+    {
+      "category": "others",
+      "count": 14,
+      "papers": [
+        "10.1002/ange.202415695",
+        "10.1021/acsami.5c06006",
+        "10.1002/anie.202423536",
+        "10.1002/ange.202423536",
+        "10.1002/anie.202318949",
+        "10.1002/ange.202318949",
+        "10.1002/anie.202415695",
+        "10.1063/5.0175035",
+        "10.1021/accountsmr.3c00126",
+        "10.1002/anie.202308822",
+        "10.1002/ange.202308822",
+        "10.1002/ange.202384461",
+        "10.1002/anie.202384461",
+        "10.1021/acsnano.1c10031"
+      ],
+      "percentage": 31.818181818181817
+    },
+    {
+      "category": "metal",
+      "count": 11,
+      "papers": [
+        "10.1038/s41467-025-62804-9",
+        "10.1016/j.matt.2025.102163",
+        "10.1021/acs.nanolett.3c04412",
+        "10.1039/d4mh01177e",
+        "10.1038/s41467-024-49243-8",
+        "10.1002/adma.202309865",
+        "10.1002/anie.202100679",
+        "10.1002/ange.202013489",
+        "10.1002/anie.202013489",
+        "10.1002/ange.202100679",
+        "10.1039/d0mh01832e"
+      ],
+      "percentage": 25.0
+    },
+    {
+      "category": "polymer",
+      "count": 6,
+      "papers": [
+        "10.1021/acs.chemmater.2c00593",
+        "10.1002/anie.202182562",
+        "10.1107/s0108767321092175",
+        "10.1002/ange.202182562",
+        "10.1002/ange.202101795",
+        "10.1002/anie.202101795"
+      ],
+      "percentage": 13.636363636363635
+    },
+    {
+      "category": "semiconductor",
+      "count": 5,
+      "papers": [
+        "10.1002/cphc.202400626",
+        "10.1002/anie.202205251",
+        "10.1021/acs.jpcc.2c01109",
+        "10.1002/ange.202205251",
+        "10.1021/jacs.1c06622"
+      ],
+      "percentage": 11.363636363636363
+    },
+    {
+      "category": "nano_materials",
+      "count": 3,
+      "papers": [
+        "10.1557/s43579-025-00692-2",
+        "10.1021/acsnano.3c10935",
+        "10.1021/acsanm.1c03865"
+      ],
+      "percentage": 6.8181818181818175
+    },
+    {
+      "category": "biopolymer",
+      "count": 3,
+      "papers": [
+        "10.1021/acsapm.4c01377",
+        "10.1039/d1na00296a",
+        "10.1515/9781501521942-001"
+      ],
+      "percentage": 6.8181818181818175
+    },
+    {
+      "category": "ceramic",
+      "count": 1,
+      "papers": [
+        "10.1002/anie.202502197"
+      ],
+      "percentage": 2.272727272727273
+    },
+    {
+      "category": "composite",
+      "count": 1,
+      "papers": [
+        "10.1038/s44172-024-00267-4"
+      ],
+      "percentage": 2.272727272727273
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "others": 1,
+      "metal": 5,
+      "polymer": 5,
+      "semiconductor": 1,
+      "nano_materials": 0,
+      "biopolymer": 2,
+      "ceramic": 0,
+      "composite": 0
+    },
+    {
+      "year": 2022,
+      "others": 0,
+      "metal": 0,
+      "polymer": 1,
+      "semiconductor": 3,
+      "nano_materials": 1,
+      "biopolymer": 0,
+      "ceramic": 0,
+      "composite": 0
+    },
+    {
+      "year": 2023,
+      "others": 6,
+      "metal": 0,
+      "polymer": 0,
+      "semiconductor": 0,
+      "nano_materials": 0,
+      "biopolymer": 0,
+      "ceramic": 0,
+      "composite": 0
+    },
+    {
+      "year": 2024,
+      "others": 3,
+      "metal": 4,
+      "polymer": 0,
+      "semiconductor": 1,
+      "nano_materials": 1,
+      "biopolymer": 1,
+      "ceramic": 0,
+      "composite": 1
+    },
+    {
+      "year": 2025,
+      "others": 4,
+      "metal": 2,
+      "polymer": 0,
+      "semiconductor": 0,
+      "nano_materials": 1,
+      "biopolymer": 0,
+      "ceramic": 1,
+      "composite": 0
+    }
+  ]
+}

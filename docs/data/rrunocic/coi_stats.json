@@ -1,0 +1,262 @@
+{
+  "overview": {
+    "total_collaborators": 360,
+    "internal_count": 4,
+    "internal_percentage": 1.1111111111111112,
+    "external_count": 356,
+    "external_percentage": 98.88888888888889,
+    "network_density": 0.038,
+    "recent_collaborations_2years": 17
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5033534606",
+      "name": "Xiahan Sang",
+      "institution": "Wuhan University of Technology",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5088080951",
+      "name": "Matthew G. Boebinger",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5045655943",
+      "name": "Sudhajit Misra",
+      "institution": "University of Utah",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5023711566",
+      "name": "Kai Xiao",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5040552329",
+      "name": "David B. Geohegan",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5076956381",
+      "name": "Xufan Li",
+      "institution": "Massachusetts Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5000042465",
+      "name": "Ondrej Dyck",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2023,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5048552375",
+      "name": "Sergei V. Kalinin",
+      "institution": "University of Tennessee at Knoxville",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022177095",
+      "name": "Kinga A. Unocic",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "faculty",
+      "collaboration_count": 4,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5039999587",
+      "name": "Alexander A. Puretzky",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5007197576",
+      "name": "James Hone",
+      "institution": "Columbia University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5030074549",
+      "name": "Masoud Mahjouri\u2010Samani",
+      "institution": "Auburn University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5045854318",
+      "name": "Adam S. Hoffman",
+      "institution": "SLAC National Accelerator Laboratory",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047493092",
+      "name": "Simon R. Bare",
+      "institution": "SLAC National Accelerator Laboratory",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5060383716",
+      "name": "Eli Sutter",
+      "institution": "University of Nebraska\u2013Lincoln",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5063141317",
+      "name": "Peter Sutter",
+      "institution": "University of Nebraska\u2013Lincoln",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5084949021",
+      "name": "Stephen Jesse",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2023,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5085250834",
+      "name": "Avetik R. Harutyunyan",
+      "institution": "Honda (United States)",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5077275227",
+      "name": "Susan E. Habas",
+      "institution": "National Renewable Energy Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5040308094",
+      "name": "Jiyun Hong",
+      "institution": "SLAC National Accelerator Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2023,2021"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Oak Ridge National Laboratory",
+      "collaborator_count": 78,
+      "paper_count": 142
+    },
+    {
+      "institution": "UNSW Sydney",
+      "collaborator_count": 14,
+      "paper_count": 18
+    },
+    {
+      "institution": "University of Tennessee at Knoxville",
+      "collaborator_count": 14,
+      "paper_count": 18
+    },
+    {
+      "institution": "Unknown",
+      "collaborator_count": 13,
+      "paper_count": 13
+    },
+    {
+      "institution": "Technical University of Denmark",
+      "collaborator_count": 13,
+      "paper_count": 20
+    },
+    {
+      "institution": "Auburn University",
+      "collaborator_count": 10,
+      "paper_count": 17
+    },
+    {
+      "institution": "Pennsylvania State University",
+      "collaborator_count": 8,
+      "paper_count": 11
+    },
+    {
+      "institution": "University of Virginia",
+      "collaborator_count": 7,
+      "paper_count": 7
+    },
+    {
+      "institution": "National Renewable Energy Laboratory",
+      "collaborator_count": 7,
+      "paper_count": 23
+    },
+    {
+      "institution": "The Ohio State University",
+      "collaborator_count": 6,
+      "paper_count": 6
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 49,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 80,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 49,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 60,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 49,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 268
+    },
+    {
+      "country": "Other",
+      "count": 92
+    }
+  ]
+}

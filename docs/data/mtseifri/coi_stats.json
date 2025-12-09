@@ -1,0 +1,262 @@
+{
+  "overview": {
+    "total_collaborators": 103,
+    "internal_count": 9,
+    "internal_percentage": 8.737864077669903,
+    "external_count": 94,
+    "external_percentage": 91.2621359223301,
+    "network_density": 0.154,
+    "recent_collaborations_2years": 16
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5071495561",
+      "name": "Al\u00e1n Aspuru\u2010Guzik",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 13,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5041163628",
+      "name": "Tony Wu",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5038604576",
+      "name": "Thuc\u2010Quyen Nguyen",
+      "institution": "University of California, Santa Barbara",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2024,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5051743081",
+      "name": "Guillermo C. Bazan",
+      "institution": "University of California, Santa Barbara",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047903834",
+      "name": "Felix Strieth\u2010Kalthoff",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5068032257",
+      "name": "Stanley Lo",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5092908194",
+      "name": "L Bod\u00f8",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5078632284",
+      "name": "Gary Tom",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5067423022",
+      "name": "Jenya Vestfrid",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5005316752",
+      "name": "Hiba Wakidi",
+      "institution": "University of California, Santa Barbara",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5019451422",
+      "name": "Naruki Yoshikawa",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5040566370",
+      "name": "Cyrille Lavigne",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5043852892",
+      "name": "Th\u00e9ophile Gaudin",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5050893241",
+      "name": "Andr\u00e9s Aguilar-Gr\u00e1nda",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061244637",
+      "name": "Marta Skreta",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5088330543",
+      "name": "Benjamin R. Luginbuhl",
+      "institution": "University of California, Santa Barbara",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5103024036",
+      "name": "Ziyue Zhu",
+      "institution": "University of California, Santa Barbara",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5002251520",
+      "name": "Riley J. Hickman",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5044344341",
+      "name": "Mohammad Haddadnia",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5039211833",
+      "name": "Emily J. Hopkins",
+      "institution": "University of Toronto",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2022,2021"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "University of Toronto",
+      "collaborator_count": 30,
+      "paper_count": 83
+    },
+    {
+      "institution": "University of California, Santa Barbara",
+      "collaborator_count": 18,
+      "paper_count": 48
+    },
+    {
+      "institution": "Santa Barbara City College",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Centre National de la Recherche Scientifique",
+      "collaborator_count": 3,
+      "paper_count": 5
+    },
+    {
+      "institution": "University of British Columbia",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Howard Hughes Medical Institute",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Korea Advanced Institute of Science and Technology",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Kyushu University",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Skolkovo Institute of Science and Technology",
+      "collaborator_count": 2,
+      "paper_count": 2
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 11,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 47,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 58,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 22,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 77,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 83
+    },
+    {
+      "country": "Other",
+      "count": 20
+    }
+  ]
+}

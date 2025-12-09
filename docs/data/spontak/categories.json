@@ -1,0 +1,106 @@
+{
+  "summary": {
+    "total_papers": 21,
+    "total_categories": 5
+  },
+  "categories": [
+    {
+      "category": "polymer",
+      "count": 16,
+      "papers": [
+        "10.1016/j.colsurfa.2025.136382",
+        "10.1080/15583724.2025.2471487",
+        "10.1016/j.apsusc.2025.162898",
+        "10.1002/apxr.202400027",
+        "10.1002/adfm.202314013",
+        "10.1039/d3mh01018",
+        "10.1039/d3ta03279e",
+        "10.1021/acsami.2c19377",
+        "10.1021/acsapm.3c00698",
+        "10.1016/j.jcis.2023.08.088",
+        "10.1039/d3mh01018j",
+        "10.1016/j.memsci.2023.121731",
+        "10.1126/science.abj9351",
+        "10.3389/fmed.2021.657837",
+        "10.1002/marc.202100442",
+        "10.1002/advs.202003503"
+      ],
+      "percentage": 76.19047619047619
+    },
+    {
+      "category": "biopolymer",
+      "count": 2,
+      "papers": [
+        "10.1016/j.aiepr.2023.04.003",
+        "10.1016/j.jcis.2021.04.071"
+      ],
+      "percentage": 9.523809523809524
+    },
+    {
+      "category": "others",
+      "count": 1,
+      "papers": [
+        "10.1038/s41563-024-01943-8"
+      ],
+      "percentage": 4.761904761904762
+    },
+    {
+      "category": "semiconductor",
+      "count": 1,
+      "papers": [
+        "10.1021/acs.langmuir.1c01585"
+      ],
+      "percentage": 4.761904761904762
+    },
+    {
+      "category": "composite",
+      "count": 1,
+      "papers": [
+        "10.1016/j.jcis.2021.04.032"
+      ],
+      "percentage": 4.761904761904762
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "polymer": 3,
+      "biopolymer": 1,
+      "others": 0,
+      "semiconductor": 1,
+      "composite": 1
+    },
+    {
+      "year": 2022,
+      "polymer": 1,
+      "biopolymer": 0,
+      "others": 0,
+      "semiconductor": 0,
+      "composite": 0
+    },
+    {
+      "year": 2023,
+      "polymer": 7,
+      "biopolymer": 1,
+      "others": 0,
+      "semiconductor": 0,
+      "composite": 0
+    },
+    {
+      "year": 2024,
+      "polymer": 2,
+      "biopolymer": 0,
+      "others": 1,
+      "semiconductor": 0,
+      "composite": 0
+    },
+    {
+      "year": 2025,
+      "polymer": 3,
+      "biopolymer": 0,
+      "others": 0,
+      "semiconductor": 0,
+      "composite": 0
+    }
+  ]
+}

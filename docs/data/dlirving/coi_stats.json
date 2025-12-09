@@ -1,0 +1,232 @@
+{
+  "overview": {
+    "total_collaborators": 34,
+    "internal_count": 25,
+    "internal_percentage": 73.52941176470588,
+    "external_count": 9,
+    "external_percentage": 26.47058823529412,
+    "network_density": 0.349,
+    "recent_collaborations_2years": 2
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5032051486",
+      "name": "Jonathon N. Baker",
+      "institution": "Savannah River National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5033402485",
+      "name": "Preston C. Bowes",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5007027098",
+      "name": "Yifeng Wu",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5054503279",
+      "name": "Kelsey J. Mirrielees",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2025,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065414324",
+      "name": "Zlatko Sitar",
+      "institution": "Shimane University",
+      "node_type": "faculty",
+      "collaboration_count": 3,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5087143982",
+      "name": "Ram\u00f3n Collazo",
+      "institution": "Shimane University",
+      "node_type": "faculty",
+      "collaboration_count": 3,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5001199844",
+      "name": "Pramod Reddy",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5002522545",
+      "name": "Gyung Hyun Ryu",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5018132118",
+      "name": "Elizabeth C. Dickey",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5008314949",
+      "name": "James M. LeBeau",
+      "institution": "Massachusetts Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5081095168",
+      "name": "Andrew Klump",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5004442305",
+      "name": "Stephan Sch\u00f6necker",
+      "institution": "KTH Royal Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5012250744",
+      "name": "Divine P. Kumah",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5015901627",
+      "name": "Seiji Mita",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5018134925",
+      "name": "Ronny Kirste",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5018897071",
+      "name": "Javad Shabani",
+      "institution": "New York University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022030025",
+      "name": "Shun Washiyama",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5033666468",
+      "name": "Qiang Guo",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5035977445",
+      "name": "Athby H. Al\u2010Tawhid",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5036410889",
+      "name": "Mehdi Hatefipour",
+      "institution": "New York University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2022"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "New York University",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Institute for Solid State Physics and Optics",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Savannah River National Laboratory",
+      "collaborator_count": 1,
+      "paper_count": 1
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 32,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 48,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 26,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 12,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 28
+    },
+    {
+      "country": "Other",
+      "count": 6
+    }
+  ]
+}

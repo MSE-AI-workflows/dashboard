@@ -1,0 +1,257 @@
+{
+  "overview": {
+    "total_collaborators": 43,
+    "internal_count": 21,
+    "internal_percentage": 48.837209302325576,
+    "external_count": 22,
+    "external_percentage": 51.162790697674424,
+    "network_density": 0.293,
+    "recent_collaborations_2years": 16
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5062810411",
+      "name": "Khara Grieger",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2025,2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5024342533",
+      "name": "Jennifer Kuzma",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2025,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5003785721",
+      "name": "Jacob L. Jones",
+      "institution": "Pusan National University",
+      "node_type": "faculty",
+      "collaboration_count": 3,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5067181746",
+      "name": "Christine Ogilvie Hendren",
+      "institution": "Appalachian State University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5072312029",
+      "name": "Anna\u2010Maria Marshall",
+      "institution": "University of Illinois Urbana-Champaign",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5000385464",
+      "name": "Ashton Merck",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5091088833",
+      "name": "Natalie G. Nelson",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022748824",
+      "name": "Andrew R. Binder",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5023953769",
+      "name": "Christopher L. Cummings",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2025,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5072584483",
+      "name": "Adam Kokotovich",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5078166328",
+      "name": "Julianna Nieuwsma",
+      "institution": "Unknown",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2025"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5108176358",
+      "name": "Yves Theriault",
+      "institution": "Qualcomm (United States)",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5031630072",
+      "name": "Juliana Ruzante",
+      "institution": "Center for Environmental Health",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5108176357",
+      "name": "Sarah J. Karik\u00f3",
+      "institution": "Harvard University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5006129934",
+      "name": "Kimberly Bourne",
+      "institution": "Unknown",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2025"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5007952329",
+      "name": "Gina Childers",
+      "institution": "Unknown",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2025"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5021599576",
+      "name": "Jehangir H. Bhadha",
+      "institution": "Everglades University",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5023481438",
+      "name": "Elise S. Morrison",
+      "institution": "University of Florida",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5025746533",
+      "name": "Shwetha Delanthamajalu",
+      "institution": "University of Illinois Urbana-Champaign",
+      "node_type": "external",
+      "collaboration_count": 1,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5028554124",
+      "name": "Luciano Colpo Gatiboni",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 1,
+      "years": "2024"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Unknown",
+      "collaborator_count": 7,
+      "paper_count": 7
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "collaborator_count": 2,
+      "paper_count": 3
+    },
+    {
+      "institution": "Iowa State University",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Arizona State University",
+      "collaborator_count": 2,
+      "paper_count": 4
+    },
+    {
+      "institution": "Qualcomm (United States)",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Harvard University",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Everglades University",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "University of Florida",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Appalachian State University",
+      "collaborator_count": 1,
+      "paper_count": 2
+    },
+    {
+      "institution": "Environmental Protection Agency",
+      "collaborator_count": 1,
+      "paper_count": 1
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2021,
+      "papers": 28,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 16,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 22,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 20,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 31
+    },
+    {
+      "country": "Other",
+      "count": 12
+    }
+  ]
+}

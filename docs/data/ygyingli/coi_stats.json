@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 188,
+    "internal_count": 52,
+    "internal_percentage": 27.659574468085108,
+    "external_count": 136,
+    "external_percentage": 72.3404255319149,
+    "network_density": 0.064,
+    "recent_collaborations_2years": 18
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5051476880",
+      "name": "Albert L. Kwansa",
+      "institution": "North Carolina State University",
+      "node_type": "faculty",
+      "collaboration_count": 19,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5057814149",
+      "name": "Abhishek Singh",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061890404",
+      "name": "Akhlak Mahmood",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5026548048",
+      "name": "Candace H. Haigler",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2025,2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5091049741",
+      "name": "Abigail Knight",
+      "institution": "University of North Carolina at Chapel Hill",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5088566394",
+      "name": "Alison W. Roberts",
+      "institution": "University of Rhode Island",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5004502050",
+      "name": "Thomas J. Oweida",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5059656816",
+      "name": "Benjamin P. Allen",
+      "institution": "University of North Carolina at Chapel Hill",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5079656287",
+      "name": "Sabila K. Pinky",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5069527267",
+      "name": "Alexey V. Gulyuk",
+      "institution": "North Carolina State University",
+      "node_type": "faculty",
+      "collaboration_count": 5,
+      "years": "2025,2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047185875",
+      "name": "Seong H. Kim",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5087525789",
+      "name": "Joseph B. Tracy",
+      "institution": "North Carolina State University",
+      "node_type": "faculty",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5046588368",
+      "name": "Kirill A. Afonin",
+      "institution": "University of North Carolina at Charlotte",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100606597",
+      "name": "Mehedi H. Rizvi",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2025,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5095042838",
+      "name": "Abigail Gringeri",
+      "institution": "University of North Carolina at Chapel Hill",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5090507991",
+      "name": "Nan K. Li",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5069011804",
+      "name": "Ho Shin Kim",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5074775442",
+      "name": "Nicholas Calzadilla",
+      "institution": "University of North Carolina at Chapel Hill",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5076744431",
+      "name": "Matthew A. Sanders",
+      "institution": "University of North Carolina at Chapel Hill",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5095042837",
+      "name": "Emily E. Beard",
+      "institution": "University of North Carolina at Chapel Hill",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Pennsylvania State University",
+      "collaborator_count": 20,
+      "paper_count": 29
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "collaborator_count": 18,
+      "paper_count": 28
+    },
+    {
+      "institution": "University of California, Irvine",
+      "collaborator_count": 14,
+      "paper_count": 22
+    },
+    {
+      "institution": "University of North Carolina at Charlotte",
+      "collaborator_count": 10,
+      "paper_count": 12
+    },
+    {
+      "institution": "Arizona State University",
+      "collaborator_count": 7,
+      "paper_count": 9
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "collaborator_count": 6,
+      "paper_count": 8
+    },
+    {
+      "institution": "Duke University",
+      "collaborator_count": 4,
+      "paper_count": 6
+    },
+    {
+      "institution": "Eastman Chemical Company (United States)",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "University of Cambridge",
+      "collaborator_count": 3,
+      "paper_count": 4
+    },
+    {
+      "institution": "Unknown",
+      "collaborator_count": 3,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 59,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 69,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 57,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 52,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 80,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 55,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 165
+    },
+    {
+      "country": "Other",
+      "count": 23
+    }
+  ]
+}

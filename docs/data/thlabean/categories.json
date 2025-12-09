@@ -1,0 +1,57 @@
+{
+  "summary": {
+    "total_papers": 8,
+    "total_categories": 3
+  },
+  "categories": [
+    {
+      "category": "nano_materials",
+      "count": 4,
+      "papers": [
+        "10.1116/6.0001867",
+        "10.1038/s41598-022-09893-4",
+        "10.1016/j.mtbio.2022.100440",
+        "10.1021/acs.chemrev.0c01332"
+      ],
+      "percentage": 50.0
+    },
+    {
+      "category": "biopolymer",
+      "count": 3,
+      "papers": [
+        "10.1111/wrr.13168",
+        "10.1016/j.ymthe.2024.05.002",
+        "10.1002/adhm.202001826"
+      ],
+      "percentage": 37.5
+    },
+    {
+      "category": "composite",
+      "count": 1,
+      "papers": [
+        "10.3390/app11052245"
+      ],
+      "percentage": 12.5
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "nano_materials": 1,
+      "biopolymer": 1,
+      "composite": 1
+    },
+    {
+      "year": 2022,
+      "nano_materials": 3,
+      "biopolymer": 0,
+      "composite": 0
+    },
+    {
+      "year": 2024,
+      "nano_materials": 0,
+      "biopolymer": 2,
+      "composite": 0
+    }
+  ]
+}

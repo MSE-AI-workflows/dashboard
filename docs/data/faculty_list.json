@@ -1,0 +1,236 @@
+[
+  {
+    "unity_id": "aamassi",
+    "name": "Aram Amassian",
+    "first_name": "Aram",
+    "last_name": "Amassian",
+    "department": "Materials Science & Engineering",
+    "total_publications": 77,
+    "total_collaborators": 338
+  },
+  {
+    "unity_id": "vaugust",
+    "name": "Veronica Augustyn",
+    "first_name": "Veronica",
+    "last_name": "Augustyn",
+    "department": "Materials Science & Engineering",
+    "total_publications": 77,
+    "total_collaborators": 141
+  },
+  {
+    "unity_id": "nwising",
+    "name": "Nina Balke",
+    "first_name": "Nina",
+    "last_name": "Balke",
+    "department": "Materials Science & Engineering",
+    "total_publications": 148,
+    "total_collaborators": 129
+  },
+  {
+    "unity_id": "brenner",
+    "name": "Donald Brenner",
+    "first_name": "Donald",
+    "last_name": "Brenner",
+    "department": "Materials Science & Engineering",
+    "total_publications": 148,
+    "total_collaborators": 54
+  },
+  {
+    "unity_id": "rcollaz",
+    "name": "Ramon Collazo",
+    "first_name": "Ramon",
+    "last_name": "Collazo",
+    "department": "Materials Science & Engineering",
+    "total_publications": 244,
+    "total_collaborators": 135
+  },
+  {
+    "unity_id": "mlrowlan",
+    "name": "Maude Cuchiara",
+    "first_name": "Maude",
+    "last_name": "Cuchiara",
+    "department": "Materials Science & Engineering",
+    "total_publications": 20,
+    "total_collaborators": 43
+  },
+  {
+    "unity_id": "cuomo",
+    "name": "Jerome Cuomo",
+    "first_name": "Jerome",
+    "last_name": "Cuomo",
+    "department": "Materials Science & Engineering",
+    "total_publications": 84,
+    "total_collaborators": 0
+  },
+  {
+    "unity_id": "agulyuk",
+    "name": "Alexey Gulyuk",
+    "first_name": "Alexey",
+    "last_name": "Gulyuk",
+    "department": "Materials Science & Engineering",
+    "total_publications": 7,
+    "total_collaborators": 31
+  },
+  {
+    "unity_id": "rkgupta2",
+    "name": "Rajeev Gupta",
+    "first_name": "Rajeev",
+    "last_name": "Gupta",
+    "department": "Materials Science & Engineering",
+    "total_publications": 130,
+    "total_collaborators": 123
+  },
+  {
+    "unity_id": "bgwalan",
+    "name": "Bharat Gwalani",
+    "first_name": "Bharat",
+    "last_name": "Gwalani",
+    "department": "Materials Science & Engineering",
+    "total_publications": 150,
+    "total_collaborators": 291
+  },
+  {
+    "unity_id": "dlirving",
+    "name": "Douglas Irving",
+    "first_name": "Douglas",
+    "last_name": "Irving",
+    "department": "Materials Science & Engineering",
+    "total_publications": 86,
+    "total_collaborators": 34
+  },
+  {
+    "unity_id": "jljone21",
+    "name": "Jacob Jones",
+    "first_name": "Jacob",
+    "last_name": "Jones",
+    "department": "Materials Science & Engineering",
+    "total_publications": 345,
+    "total_collaborators": 299
+  },
+  {
+    "unity_id": "alkwansa",
+    "name": "Albert Kwansa",
+    "first_name": "Albert",
+    "last_name": "Kwansa",
+    "department": "Materials Science & Engineering",
+    "total_publications": 25,
+    "total_collaborators": 106
+  },
+  {
+    "unity_id": "thlabean",
+    "name": "Thomas LaBean",
+    "first_name": "Thomas",
+    "last_name": "LaBean",
+    "department": "Materials Science & Engineering",
+    "total_publications": 66,
+    "total_collaborators": 25
+  },
+  {
+    "unity_id": "yliu292",
+    "name": "Yin Liu",
+    "first_name": "Yin",
+    "last_name": "Liu",
+    "department": "Materials Science & Engineering",
+    "total_publications": 46,
+    "total_collaborators": 144
+  },
+  {
+    "unity_id": "narayan",
+    "name": "Jagdish Narayan",
+    "first_name": "Jagdish",
+    "last_name": "Narayan",
+    "department": "Materials Science & Engineering",
+    "total_publications": 426,
+    "total_collaborators": 58
+  },
+  {
+    "unity_id": "mtseifri",
+    "name": "Martin Seifrid",
+    "first_name": "Martin",
+    "last_name": "Seifrid",
+    "department": "Materials Science & Engineering",
+    "total_publications": 41,
+    "total_collaborators": 103
+  },
+  {
+    "unity_id": "sitar",
+    "name": "Zlatko Sitar",
+    "first_name": "Zlatko",
+    "last_name": "Sitar",
+    "department": "Materials Science & Engineering",
+    "total_publications": 320,
+    "total_collaborators": 123
+  },
+  {
+    "unity_id": "fso",
+    "name": "Franky So",
+    "first_name": "Franky",
+    "last_name": "So",
+    "department": "Materials Science & Engineering",
+    "total_publications": 198,
+    "total_collaborators": 140
+  },
+  {
+    "unity_id": "spontak",
+    "name": "Richard Spontak",
+    "first_name": "Richard",
+    "last_name": "Spontak",
+    "department": "Materials Science & Engineering",
+    "total_publications": 277,
+    "total_collaborators": 76
+  },
+  {
+    "unity_id": "mthuo",
+    "name": "Martin Thuo",
+    "first_name": "Martin",
+    "last_name": "Thuo",
+    "department": "Materials Science & Engineering",
+    "total_publications": 166,
+    "total_collaborators": 116
+  },
+  {
+    "unity_id": "jbtracy",
+    "name": "Joseph Tracy",
+    "first_name": "Joseph",
+    "last_name": "Tracy",
+    "department": "Materials Science & Engineering",
+    "total_publications": 120,
+    "total_collaborators": 124
+  },
+  {
+    "unity_id": "kaunocic",
+    "name": "Kinga Unocic",
+    "first_name": "Kinga",
+    "last_name": "Unocic",
+    "department": "Materials Science & Engineering",
+    "total_publications": 156,
+    "total_collaborators": 240
+  },
+  {
+    "unity_id": "rrunocic",
+    "name": "Raymond Unocic",
+    "first_name": "Raymond",
+    "last_name": "Unocic",
+    "department": "Materials Science & Engineering",
+    "total_publications": 219,
+    "total_collaborators": 360
+  },
+  {
+    "unity_id": "rxu22",
+    "name": "Ruijuan Xu",
+    "first_name": "Ruijuan",
+    "last_name": "Xu",
+    "department": "Materials Science & Engineering",
+    "total_publications": 45,
+    "total_collaborators": 91
+  },
+  {
+    "unity_id": "ygyingli",
+    "name": "Yaroslava Yingling",
+    "first_name": "Yaroslava",
+    "last_name": "Yingling",
+    "department": "Materials Science & Engineering",
+    "total_publications": 144,
+    "total_collaborators": 188
+  }
+]

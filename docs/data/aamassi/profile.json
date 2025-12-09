@@ -1,0 +1,15 @@
+{
+  "unity_id": "aamassi",
+  "name": "Aram Amassian",
+  "first_name": "Aram",
+  "last_name": "Amassian",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5035652561",
+  "stats": {
+    "total_publications": 77,
+    "recent_publications": 58,
+    "total_collaborators": 338,
+    "total_categories": 7,
+    "external_percentage": 73.7
+  }
+}

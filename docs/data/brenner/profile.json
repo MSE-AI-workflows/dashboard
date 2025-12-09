@@ -1,0 +1,15 @@
+{
+  "unity_id": "brenner",
+  "name": "Donald Brenner",
+  "first_name": "Donald",
+  "last_name": "Brenner",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5052189722",
+  "stats": {
+    "total_publications": 148,
+    "recent_publications": 16,
+    "total_collaborators": 54,
+    "total_categories": 3,
+    "external_percentage": 83.3
+  }
+}

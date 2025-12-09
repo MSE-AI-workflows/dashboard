@@ -1,0 +1,15 @@
+{
+  "unity_id": "kaunocic",
+  "name": "Kinga Unocic",
+  "first_name": "Kinga",
+  "last_name": "Unocic",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5022177095",
+  "stats": {
+    "total_publications": 156,
+    "recent_publications": 58,
+    "total_collaborators": 240,
+    "total_categories": 7,
+    "external_percentage": 99.2
+  }
+}

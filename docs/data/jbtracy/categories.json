@@ -1,0 +1,131 @@
+{
+  "summary": {
+    "total_papers": 22,
+    "total_categories": 7
+  },
+  "categories": [
+    {
+      "category": "nano_materials",
+      "count": 10,
+      "papers": [
+        "10.1038/s41565-025-02009-9",
+        "10.1002/admi.202500234",
+        "10.1021/acs.chemmater.4c02625",
+        "10.1021/acsnano.4c06285",
+        "10.1117/1.jbo.29.4.046004",
+        "10.1021/acs.chemmater.3c03204",
+        "10.1021/acsnano.3c01313",
+        "10.1016/j.jmmm.2022.169036",
+        "10.1002/adma.202203366",
+        "10.1002/cey2.83"
+      ],
+      "percentage": 45.45454545454545
+    },
+    {
+      "category": "polymer",
+      "count": 6,
+      "papers": [
+        "10.3390/polym16142032",
+        "10.1016/j.matt.2024.01.006",
+        "10.1073/pnas.2201566119",
+        "10.1122/8.0000410",
+        "10.1021/acsanm.1c00309",
+        "10.1002/marc.202000657"
+      ],
+      "percentage": 27.27272727272727
+    },
+    {
+      "category": "composite",
+      "count": 2,
+      "papers": [
+        "10.1007/s10853-024-10208-3",
+        "10.1126/sciadv.adr8421"
+      ],
+      "percentage": 9.090909090909092
+    },
+    {
+      "category": "metal",
+      "count": 1,
+      "papers": [
+        "10.1038/s41467-025-62804-9"
+      ],
+      "percentage": 4.545454545454546
+    },
+    {
+      "category": "semiconductor",
+      "count": 1,
+      "papers": [
+        "10.1002/admt.202302243"
+      ],
+      "percentage": 4.545454545454546
+    },
+    {
+      "category": "biopolymer",
+      "count": 1,
+      "papers": [
+        "10.1021/acsami.1c09230"
+      ],
+      "percentage": 4.545454545454546
+    },
+    {
+      "category": "others",
+      "count": 1,
+      "papers": [
+        "10.1002/adma.202008751"
+      ],
+      "percentage": 4.545454545454546
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "nano_materials": 1,
+      "polymer": 2,
+      "composite": 0,
+      "metal": 0,
+      "semiconductor": 0,
+      "biopolymer": 1,
+      "others": 1
+    },
+    {
+      "year": 2022,
+      "nano_materials": 2,
+      "polymer": 2,
+      "composite": 0,
+      "metal": 0,
+      "semiconductor": 0,
+      "biopolymer": 0,
+      "others": 0
+    },
+    {
+      "year": 2023,
+      "nano_materials": 1,
+      "polymer": 0,
+      "composite": 0,
+      "metal": 0,
+      "semiconductor": 0,
+      "biopolymer": 0,
+      "others": 0
+    },
+    {
+      "year": 2024,
+      "nano_materials": 3,
+      "polymer": 2,
+      "composite": 2,
+      "metal": 0,
+      "semiconductor": 1,
+      "biopolymer": 0,
+      "others": 0
+    },
+    {
+      "year": 2025,
+      "nano_materials": 3,
+      "polymer": 0,
+      "composite": 0,
+      "metal": 1,
+      "semiconductor": 0,
+      "biopolymer": 0,
+      "others": 0
+    }
+  ]
+}

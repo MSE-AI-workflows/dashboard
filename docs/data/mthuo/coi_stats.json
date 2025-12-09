@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 116,
+    "internal_count": 21,
+    "internal_percentage": 18.103448275862068,
+    "external_count": 95,
+    "external_percentage": 81.89655172413794,
+    "network_density": 0.111,
+    "recent_collaborations_2years": 17
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5015534674",
+      "name": "Andrew Martin",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 37,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061728082",
+      "name": "Chuanshen Du",
+      "institution": "Iowa State University",
+      "node_type": "external",
+      "collaboration_count": 28,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5090034413",
+      "name": "Alana M. Pauls",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 23,
+      "years": "2025,2024,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5036451352",
+      "name": "Boyce S. Chang",
+      "institution": "Iowa State University",
+      "node_type": "external",
+      "collaboration_count": 16,
+      "years": "2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5108738752",
+      "name": "Julia J. Chang",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 13,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061742754",
+      "name": "Aaron J. Rossini",
+      "institution": "Iowa State University",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5092501380",
+      "name": "Dhanush U. Jamadgni",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5059588273",
+      "name": "E. Johan Foster",
+      "institution": "University of British Columbia",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5110292224",
+      "name": "Paul R. Gregory",
+      "institution": "Iowa State University",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2024,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5023896118",
+      "name": "Rick W. Dorn",
+      "institution": "Ames National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2023,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100434466",
+      "name": "Jiahao Chen",
+      "institution": "Iowa State University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5066925668",
+      "name": "Thomas Ward",
+      "institution": "Iowa State University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5018545542",
+      "name": "Bharat Gwalani",
+      "institution": "University of North Texas",
+      "node_type": "faculty",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5021889473",
+      "name": "Winnie M. Kiarie",
+      "institution": "Iowa State University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5001393882",
+      "name": "Aniruddha Malakar",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5006065055",
+      "name": "Brijith Thomas",
+      "institution": "Ames National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065998610",
+      "name": "Zhengjia Wang",
+      "institution": "Iowa State University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5033675494",
+      "name": "Raphaell Moreira",
+      "institution": "University of British Columbia",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5033849453",
+      "name": "Madjid Mohseni",
+      "institution": "University of British Columbia",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5054230545",
+      "name": "Mayur Pole",
+      "institution": "University of North Texas",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2025,2024"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Iowa State University",
+      "collaborator_count": 37,
+      "paper_count": 83
+    },
+    {
+      "institution": "Pacific Northwest National Laboratory",
+      "collaborator_count": 11,
+      "paper_count": 36
+    },
+    {
+      "institution": "University of British Columbia",
+      "collaborator_count": 8,
+      "paper_count": 11
+    },
+    {
+      "institution": "Boston University",
+      "collaborator_count": 6,
+      "paper_count": 6
+    },
+    {
+      "institution": "Unknown",
+      "collaborator_count": 5,
+      "paper_count": 5
+    },
+    {
+      "institution": "Binghamton University",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "University of North Texas",
+      "collaborator_count": 2,
+      "paper_count": 5
+    },
+    {
+      "institution": "Minghsin University of Science and Technology",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Lawrence Berkeley National Laboratory",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Tianjin University",
+      "collaborator_count": 2,
+      "paper_count": 2
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 140,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 142,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 111,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 141,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 164,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 103,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 106
+    },
+    {
+      "country": "Other",
+      "count": 10
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "total_papers": 12,
+    "total_categories": 3
+  },
+  "categories": [
+    {
+      "category": "semiconductor",
+      "count": 8,
+      "papers": [
+        "10.1038/s41467-025-58009-9",
+        "10.1038/s41467-024-52983-2",
+        "10.1073/pnas.2308247121",
+        "10.1038/s41467-024-47917-x",
+        "10.1021/acs.nanolett.3c01630",
+        "10.1021/acs.chemrev.2c00917",
+        "10.1021/acs.nanolett.2c00395",
+        "10.1038/s41467-021-24247-w"
+      ],
+      "percentage": 66.66666666666666
+    },
+    {
+      "category": "ceramic",
+      "count": 3,
+      "papers": [
+        "10.1002/adfm.202501041",
+        "10.1002/adma.202210562",
+        "10.1021/acs.nanolett.1c00918"
+      ],
+      "percentage": 25.0
+    },
+    {
+      "category": "nano_materials",
+      "count": 1,
+      "papers": [
+        "10.1038/s41563-024-02108-3"
+      ],
+      "percentage": 8.333333333333332
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "semiconductor": 1,
+      "ceramic": 1,
+      "nano_materials": 0
+    },
+    {
+      "year": 2022,
+      "semiconductor": 1,
+      "ceramic": 0,
+      "nano_materials": 0
+    },
+    {
+      "year": 2023,
+      "semiconductor": 2,
+      "ceramic": 1,
+      "nano_materials": 0
+    },
+    {
+      "year": 2024,
+      "semiconductor": 3,
+      "ceramic": 0,
+      "nano_materials": 0
+    },
+    {
+      "year": 2025,
+      "semiconductor": 1,
+      "ceramic": 1,
+      "nano_materials": 1
+    }
+  ]
+}

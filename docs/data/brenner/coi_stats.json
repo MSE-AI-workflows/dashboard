@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 54,
+    "internal_count": 9,
+    "internal_percentage": 16.666666666666664,
+    "external_count": 45,
+    "external_percentage": 83.33333333333334,
+    "network_density": 0.314,
+    "recent_collaborations_2years": 14
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5005850270",
+      "name": "Jon\u2010Paul Maria",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 9,
+      "years": "2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5006314784",
+      "name": "Stefano Curtarolo",
+      "institution": "Duke University",
+      "node_type": "external",
+      "collaboration_count": 9,
+      "years": "2025,2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5032773583",
+      "name": "William G. Fahrenholtz",
+      "institution": "Missouri University of Science and Technology",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2025,2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5000262710",
+      "name": "Eva Zurek",
+      "institution": "University at Buffalo, State University of New York",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5058912530",
+      "name": "Cormac Toher",
+      "institution": "The University of Texas at Dallas",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065686399",
+      "name": "Marco Esters",
+      "institution": "Duke University",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5073329819",
+      "name": "Corey Oses",
+      "institution": "Duke University",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5039321634",
+      "name": "Mohammad Delower Hossain",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5007369487",
+      "name": "Douglas E. Wolfe",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5026283985",
+      "name": "Trent Borman",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5071194490",
+      "name": "Xiomara Campilongo",
+      "institution": "Duke University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5040699656",
+      "name": "David Hicks",
+      "institution": "Duke University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5002139765",
+      "name": "Simon Divilov",
+      "institution": "Duke University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5008314949",
+      "name": "James M. LeBeau",
+      "institution": "Massachusetts Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5093299799",
+      "name": "Adam C. Zettel",
+      "institution": "Duke University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5085757825",
+      "name": "Mina Lim",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2023,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022125534",
+      "name": "Rico Friedrich",
+      "institution": "Helmholtz-Zentrum Dresden-Rossendorf",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5008416498",
+      "name": "Abinash Kumar",
+      "institution": "Massachusetts Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100618987",
+      "name": "Lun Feng",
+      "institution": "Missouri University of Science and Technology",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5014759418",
+      "name": "Christina M. Rost",
+      "institution": "James Madison University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2022,2020"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Pennsylvania State University",
+      "collaborator_count": 13,
+      "paper_count": 29
+    },
+    {
+      "institution": "Duke University",
+      "collaborator_count": 12,
+      "paper_count": 34
+    },
+    {
+      "institution": "Missouri University of Science and Technology",
+      "collaborator_count": 4,
+      "paper_count": 12
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "University at Buffalo, State University of New York",
+      "collaborator_count": 3,
+      "paper_count": 8
+    },
+    {
+      "institution": "University of Virginia",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "collaborator_count": 2,
+      "paper_count": 2
+    },
+    {
+      "institution": "Helmholtz-Zentrum Dresden-Rossendorf",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "Institute of Technical Sciences of SASA",
+      "collaborator_count": 1,
+      "paper_count": 1
+    },
+    {
+      "institution": "The University of Texas at Dallas",
+      "collaborator_count": 1,
+      "paper_count": 1
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 20,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 58,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 39,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 2,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 65,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 27,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 47
+    },
+    {
+      "country": "Other",
+      "count": 7
+    }
+  ]
+}

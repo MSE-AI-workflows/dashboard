@@ -1,0 +1,59 @@
+{
+  "summary": {
+    "total_papers": 4,
+    "total_categories": 3
+  },
+  "categories": [
+    {
+      "category": "nano_materials",
+      "count": 2,
+      "papers": [
+        "10.1021/acsestwater.2c00473",
+        "10.1116/6.0002043"
+      ],
+      "percentage": 50.0
+    },
+    {
+      "category": "others",
+      "count": 1,
+      "papers": [
+        "10.1021/acs.est.4c05203"
+      ],
+      "percentage": 25.0
+    },
+    {
+      "category": "semiconductor",
+      "count": 1,
+      "papers": [
+        "10.1002/adma.202004655"
+      ],
+      "percentage": 25.0
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "nano_materials": 0,
+      "others": 0,
+      "semiconductor": 1
+    },
+    {
+      "year": 2022,
+      "nano_materials": 1,
+      "others": 0,
+      "semiconductor": 0
+    },
+    {
+      "year": 2023,
+      "nano_materials": 1,
+      "others": 0,
+      "semiconductor": 0
+    },
+    {
+      "year": 2024,
+      "nano_materials": 0,
+      "others": 1,
+      "semiconductor": 0
+    }
+  ]
+}

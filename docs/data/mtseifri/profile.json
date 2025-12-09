@@ -1,0 +1,15 @@
+{
+  "unity_id": "mtseifri",
+  "name": "Martin Seifrid",
+  "first_name": "Martin",
+  "last_name": "Seifrid",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5031911852",
+  "stats": {
+    "total_publications": 41,
+    "recent_publications": 24,
+    "total_collaborators": 103,
+    "total_categories": 3,
+    "external_percentage": 91.3
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "overview": {
+    "total_collaborators": 123,
+    "internal_count": 59,
+    "internal_percentage": 47.96747967479675,
+    "external_count": 64,
+    "external_percentage": 52.03252032520326,
+    "network_density": 0.15,
+    "recent_collaborations_2years": 18
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5087143982",
+      "name": "Ram\u00f3n Collazo",
+      "institution": "Shimane University",
+      "node_type": "faculty",
+      "collaboration_count": 55,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5001199844",
+      "name": "Pramod Reddy",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 43,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5015901627",
+      "name": "Seiji Mita",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 38,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5018134925",
+      "name": "Ronny Kirste",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 35,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5062453074",
+      "name": "Dolar Khachariya",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 29,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5052453596",
+      "name": "Pegah Bagheri",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 25,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5006984767",
+      "name": "Spyridon Pavlidis",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 23,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5077952273",
+      "name": "Shashwat Rathkanthiwar",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 17,
+      "years": "2025,2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5074908767",
+      "name": "James Tweedie",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 17,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5108293179",
+      "name": "E. Kohn",
+      "institution": "Universit\u00e4t Ulm",
+      "node_type": "external",
+      "collaboration_count": 17,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5074996133",
+      "name": "M. Hayden Breckenridge",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 15,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5012478596",
+      "name": "Dennis Szymanski",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 12,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100625173",
+      "name": "Yan Guan",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 12,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5035209955",
+      "name": "Baxter Moody",
+      "institution": "Shimane University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 10,
+      "years": "2025,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5065551207",
+      "name": "Micha\u0142 Bo\u0107kowski",
+      "institution": "Tokyo University of Agriculture and Technology",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5081095168",
+      "name": "Andrew Klump",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5048322723",
+      "name": "Cristyan Qui\u00f1ones-Garc\u00eda",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022030025",
+      "name": "Shun Washiyama",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5049462057",
+      "name": "Will Mecouch",
+      "institution": "Adroit Materials (United States)",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2025,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061783415",
+      "name": "Kacper Sierakowski",
+      "institution": "Institute of High Pressure Physics",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2024,2023,2022,2021"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "University of Notre Dame",
+      "collaborator_count": 9,
+      "paper_count": 9
+    },
+    {
+      "institution": "Tokyo University of Agriculture and Technology",
+      "collaborator_count": 6,
+      "paper_count": 9
+    },
+    {
+      "institution": "Pennsylvania State University",
+      "collaborator_count": 5,
+      "paper_count": 14
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "collaborator_count": 5,
+      "paper_count": 7
+    },
+    {
+      "institution": "Leibniz Institute for Crystal Growth",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Argonne National Laboratory",
+      "collaborator_count": 3,
+      "paper_count": 5
+    },
+    {
+      "institution": "Tohoku University",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Ferdinand-Braun-Institut",
+      "collaborator_count": 3,
+      "paper_count": 4
+    },
+    {
+      "institution": "Unknown",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "HexaTech (United States)",
+      "collaborator_count": 2,
+      "paper_count": 5
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 340,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 372,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 397,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 381,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 324,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 292,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 99
+    },
+    {
+      "country": "Other",
+      "count": 22
+    },
+    {
+      "country": "Japan",
+      "count": 2
+    }
+  ]
+}

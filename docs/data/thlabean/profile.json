@@ -1,0 +1,15 @@
+{
+  "unity_id": "thlabean",
+  "name": "Thomas LaBean",
+  "first_name": "Thomas",
+  "last_name": "LaBean",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5036574954",
+  "stats": {
+    "total_publications": 66,
+    "recent_publications": 8,
+    "total_collaborators": 25,
+    "total_categories": 3,
+    "external_percentage": 20.0
+  }
+}

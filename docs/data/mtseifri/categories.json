@@ -1,0 +1,81 @@
+{
+  "summary": {
+    "total_papers": 20,
+    "total_categories": 3
+  },
+  "categories": [
+    {
+      "category": "others",
+      "count": 11,
+      "papers": [
+        "10.1038/s41467-025-59231-1",
+        "10.1039/d4dd00046c",
+        "10.1021/acs.chemrev.4c00055",
+        "10.1021/acs.accounts.2c00220",
+        "10.1021/acscentsci.1c01002",
+        "10.1016/j.matt.2022.05.035",
+        "10.1063/5.0080342",
+        "10.26434/chemrxiv-2021-k0qx5",
+        "10.1107/s0108767321097415",
+        "10.1021/acs.chemmater.0c04111",
+        "10.1021/acscentsci.1c00108"
+      ],
+      "percentage": 55.00000000000001
+    },
+    {
+      "category": "semiconductor",
+      "count": 6,
+      "papers": [
+        "10.1126/science.adk9227",
+        "10.1039/d4ta01942c",
+        "10.1002/adma.202207070",
+        "10.1016/j.matt.2023.06.046",
+        "10.26434/chemrxiv-2022-9zm65",
+        "10.1002/solr.202200135"
+      ],
+      "percentage": 30.0
+    },
+    {
+      "category": "polymer",
+      "count": 3,
+      "papers": [
+        "10.1021/acs.chemmater.3c01931",
+        "10.1021/acs.jcim.3c00144",
+        "10.26434/chemrxiv-2022-hxvcc"
+      ],
+      "percentage": 15.0
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "others": 4,
+      "semiconductor": 0,
+      "polymer": 0
+    },
+    {
+      "year": 2022,
+      "others": 4,
+      "semiconductor": 2,
+      "polymer": 1
+    },
+    {
+      "year": 2023,
+      "others": 0,
+      "semiconductor": 2,
+      "polymer": 1
+    },
+    {
+      "year": 2024,
+      "others": 2,
+      "semiconductor": 2,
+      "polymer": 1
+    },
+    {
+      "year": 2025,
+      "others": 1,
+      "semiconductor": 0,
+      "polymer": 0
+    }
+  ]
+}

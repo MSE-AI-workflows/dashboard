@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "total_papers": 7,
+    "total_categories": 4
+  },
+  "categories": [
+    {
+      "category": "others",
+      "count": 3,
+      "papers": [
+        "10.3390/su162310429",
+        "10.1177/02704676221102066",
+        "10.1021/acs.est.1c05311"
+      ],
+      "percentage": 42.857142857142854
+    },
+    {
+      "category": "nano_materials",
+      "count": 2,
+      "papers": [
+        "10.1007/s10669-024-09991-w",
+        "10.1016/j.impact.2021.100365"
+      ],
+      "percentage": 28.57142857142857
+    },
+    {
+      "category": "metal",
+      "count": 1,
+      "papers": [
+        "10.1007/s11165-025-10249-x"
+      ],
+      "percentage": 14.285714285714285
+    },
+    {
+      "category": "biopolymer",
+      "count": 1,
+      "papers": [
+        "10.3390/su17156795"
+      ],
+      "percentage": 14.285714285714285
+    }
+  ],
+  "trend": [
+    {
+      "year": 2021,
+      "others": 1,
+      "nano_materials": 1,
+      "metal": 0,
+      "biopolymer": 0
+    },
+    {
+      "year": 2022,
+      "others": 1,
+      "nano_materials": 0,
+      "metal": 0,
+      "biopolymer": 0
+    },
+    {
+      "year": 2024,
+      "others": 1,
+      "nano_materials": 1,
+      "metal": 0,
+      "biopolymer": 0
+    },
+    {
+      "year": 2025,
+      "others": 0,
+      "nano_materials": 0,
+      "metal": 1,
+      "biopolymer": 1
+    }
+  ]
+}

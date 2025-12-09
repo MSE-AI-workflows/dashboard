@@ -1,0 +1,15 @@
+{
+  "unity_id": "rrunocic",
+  "name": "Raymond Unocic",
+  "first_name": "Raymond",
+  "last_name": "Unocic",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5006445523",
+  "stats": {
+    "total_publications": 219,
+    "recent_publications": 69,
+    "total_collaborators": 360,
+    "total_categories": 6,
+    "external_percentage": 98.9
+  }
+}

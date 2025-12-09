@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 141,
+    "internal_count": 30,
+    "internal_percentage": 21.27659574468085,
+    "external_count": 111,
+    "external_percentage": 78.72340425531915,
+    "network_density": 0.086,
+    "recent_collaborations_2years": 19
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5031830962",
+      "name": "Noah P. Holzapfel",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 12,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5016306924",
+      "name": "Ruocun Wang",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 10,
+      "years": "2025,2024,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5044709351",
+      "name": "Simon Fleischmann",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5059522404",
+      "name": "Saeed Saeed",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2024,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061463645",
+      "name": "Michael A. Spencer",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5031199152",
+      "name": "De\u2010en Jiang",
+      "institution": "University of California, Riverside",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2024,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5040605757",
+      "name": "Nina Balke",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "faculty",
+      "collaboration_count": 6,
+      "years": "2024,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5052070921",
+      "name": "Jenelle Fortunato",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 6,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5068663343",
+      "name": "Matthew Chagnot",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 6,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5113922859",
+      "name": "Shelby Boyd",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5033922371",
+      "name": "Wan\u2010Yu Tsai",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5007986677",
+      "name": "Joaqu\u00edn Rodr\u00edguez\u2010L\u00f3pez",
+      "institution": "University of Illinois Urbana-Champaign",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5019006469",
+      "name": "Jahan M. Dawlaty",
+      "institution": "University of Southern California",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5077401838",
+      "name": "Adri C. T. van Duin",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5010338972",
+      "name": "Ishita Kamboj",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2025,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5010726891",
+      "name": "Eugene Mamontov",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5013536037",
+      "name": "Volker Presser",
+      "institution": "Leibniz-Institute for New Materials",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2023,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5056489368",
+      "name": "Karthik Ganeshan",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5066394844",
+      "name": "Giannis Mpourmpakis",
+      "institution": "University of Pittsburgh",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5072939048",
+      "name": "James B. Mitchell",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2023,2022,2020"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Oak Ridge National Laboratory",
+      "collaborator_count": 10,
+      "paper_count": 14
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "collaborator_count": 8,
+      "paper_count": 10
+    },
+    {
+      "institution": "Vanderbilt University",
+      "collaborator_count": 6,
+      "paper_count": 7
+    },
+    {
+      "institution": "Helmholtz-Institute Ulm",
+      "collaborator_count": 5,
+      "paper_count": 5
+    },
+    {
+      "institution": "University of California, Riverside",
+      "collaborator_count": 5,
+      "paper_count": 7
+    },
+    {
+      "institution": "University of Pittsburgh",
+      "collaborator_count": 5,
+      "paper_count": 6
+    },
+    {
+      "institution": "Pennsylvania State University",
+      "collaborator_count": 4,
+      "paper_count": 6
+    },
+    {
+      "institution": "University of Central Florida",
+      "collaborator_count": 3,
+      "paper_count": 3
+    },
+    {
+      "institution": "Lawrence Berkeley National Laboratory",
+      "collaborator_count": 3,
+      "paper_count": 4
+    },
+    {
+      "institution": "University of Nottingham",
+      "collaborator_count": 3,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 51,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 73,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 40,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 84,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 87,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 56,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 117
+    },
+    {
+      "country": "Other",
+      "count": 24
+    }
+  ]
+}

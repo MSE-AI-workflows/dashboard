@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_collaborators": 124,
+    "internal_count": 43,
+    "internal_percentage": 34.67741935483871,
+    "external_count": 81,
+    "external_percentage": 65.32258064516128,
+    "network_density": 0.105,
+    "recent_collaborations_2years": 15
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5100606597",
+      "name": "Mehedi H. Rizvi",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 10,
+      "years": "2025,2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5095956221",
+      "name": "Melanie M. Ghelardini",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5072924589",
+      "name": "Emily E. Evans",
+      "institution": "Elon University",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5075896602",
+      "name": "Brian B. Lynch",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5046770281",
+      "name": "Yaroslava G. Yingling",
+      "institution": "North Carolina State University",
+      "node_type": "faculty",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5095829729",
+      "name": "Matthew R. Clary",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 4,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5067606962",
+      "name": "Amy L. Oldenburg",
+      "institution": "University of North Carolina at Chapel Hill",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5054581229",
+      "name": "Jessica A.\u2010C. Liu",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5087707447",
+      "name": "Niels Holten\u2010Andersen",
+      "institution": "Massachusetts Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5070051704",
+      "name": "Andreas Fery",
+      "institution": "Leibniz Institute of Polymer Research",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5061890404",
+      "name": "Akhlak Mahmood",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5092531450",
+      "name": "Farhan Ishrak",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5053531698",
+      "name": "Mert Efe",
+      "institution": "Pacific Northwest National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5055968208",
+      "name": "Gareth H. McKinley",
+      "institution": "Massachusetts Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5008972399",
+      "name": "Jake Song",
+      "institution": "Massachusetts Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5056226913",
+      "name": "Brian S. Chapman",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2024,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5001393882",
+      "name": "Aniruddha Malakar",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5018545542",
+      "name": "Bharat Gwalani",
+      "institution": "University of North Texas",
+      "node_type": "faculty",
+      "collaboration_count": 2,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5074151270",
+      "name": "J\u00e1n Ilavsk\u00fd",
+      "institution": "Argonne National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5095896085",
+      "name": "Michael Lastovich",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 2,
+      "years": "2025,2024"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Leibniz Institute of Polymer Research",
+      "collaborator_count": 14,
+      "paper_count": 17
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "collaborator_count": 8,
+      "paper_count": 14
+    },
+    {
+      "institution": "Lawrence Livermore National Laboratory",
+      "collaborator_count": 6,
+      "paper_count": 6
+    },
+    {
+      "institution": "Pacific Northwest National Laboratory",
+      "collaborator_count": 6,
+      "paper_count": 27
+    },
+    {
+      "institution": "University of North Carolina at Charlotte",
+      "collaborator_count": 5,
+      "paper_count": 7
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "collaborator_count": 4,
+      "paper_count": 6
+    },
+    {
+      "institution": "Helmholtz-Zentrum Dresden-Rossendorf",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "University of North Texas",
+      "collaborator_count": 4,
+      "paper_count": 13
+    },
+    {
+      "institution": "Argonne National Laboratory",
+      "collaborator_count": 3,
+      "paper_count": 4
+    },
+    {
+      "institution": "Elon University",
+      "collaborator_count": 3,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 32,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 31,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 30,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 17,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 54,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 37,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 91
+    },
+    {
+      "country": "Other",
+      "count": 33
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "unity_id": "jbtracy",
+  "name": "Joseph Tracy",
+  "first_name": "Joseph",
+  "last_name": "Tracy",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5087525789",
+  "stats": {
+    "total_publications": 120,
+    "recent_publications": 25,
+    "total_collaborators": 124,
+    "total_categories": 7,
+    "external_percentage": 65.3
+  }
+}

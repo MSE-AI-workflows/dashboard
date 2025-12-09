@@ -1,0 +1,15 @@
+{
+  "unity_id": "sitar",
+  "name": "Zlatko Sitar",
+  "first_name": "Zlatko",
+  "last_name": "Sitar",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5065414324",
+  "stats": {
+    "total_publications": 320,
+    "recent_publications": 58,
+    "total_collaborators": 123,
+    "total_categories": 4,
+    "external_percentage": 52.0
+  }
+}

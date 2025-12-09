@@ -1,0 +1,271 @@
+{
+  "overview": {
+    "total_collaborators": 144,
+    "internal_count": 5,
+    "internal_percentage": 3.4722222222222223,
+    "external_count": 139,
+    "external_percentage": 96.52777777777779,
+    "network_density": 0.129,
+    "recent_collaborations_2years": 14
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5021104645",
+      "name": "Jie Yao",
+      "institution": "University of California, Berkeley",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5064879447",
+      "name": "Jennifer A. Dionne",
+      "institution": "Stanford University",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5013940025",
+      "name": "Shancheng Yan",
+      "institution": "Nanjing University of Posts and Telecommunications",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5080728082",
+      "name": "Ruijuan Xu",
+      "institution": "Stanford University",
+      "node_type": "faculty",
+      "collaboration_count": 4,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5101949574",
+      "name": "Fuyi Yang",
+      "institution": "University of California, Berkeley",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5071670844",
+      "name": "Shuren Lin",
+      "institution": "University of California, Berkeley",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5009164072",
+      "name": "Zixuan Fang",
+      "institution": "University of Electronic Science and Technology of China",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100403606",
+      "name": "Rui Chen",
+      "institution": "University of California, Berkeley",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5056703628",
+      "name": "Yuzi Liu",
+      "institution": "Argonne National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5016622098",
+      "name": "Alexey B. Kuzmenko",
+      "institution": "University of Geneva",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022018174",
+      "name": "Kevin J. Crust",
+      "institution": "Stanford University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5076194717",
+      "name": "Hans A. Bechtel",
+      "institution": "Lawrence Berkeley National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5046482159",
+      "name": "Stephanie N. Gilbert Corder",
+      "institution": "Lawrence Berkeley National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100414546",
+      "name": "Jiarui Li",
+      "institution": "SLAC National Accelerator Laboratory",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5029634331",
+      "name": "Shuai Lou",
+      "institution": "University of California, Berkeley",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5007037190",
+      "name": "Carl Willem Rischau",
+      "institution": "University of Geneva",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5046449102",
+      "name": "Jingchuan Zhu",
+      "institution": "Harbin Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5014287206",
+      "name": "Adrien Bercher",
+      "institution": "University of Geneva",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5067854939",
+      "name": "Xingqi Liao",
+      "institution": "Harbin Institute of Technology",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5104075423",
+      "name": "Haizeng Song",
+      "institution": "Nanjing University",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2022,2021"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Lawrence Berkeley National Laboratory",
+      "collaborator_count": 25,
+      "paper_count": 29
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "collaborator_count": 21,
+      "paper_count": 23
+    },
+    {
+      "institution": "Stanford University",
+      "collaborator_count": 19,
+      "paper_count": 24
+    },
+    {
+      "institution": "Harbin Institute of Technology",
+      "collaborator_count": 11,
+      "paper_count": 15
+    },
+    {
+      "institution": "SLAC National Accelerator Laboratory",
+      "collaborator_count": 10,
+      "paper_count": 14
+    },
+    {
+      "institution": "Collaborative Innovation Center of Advanced Microstructures",
+      "collaborator_count": 8,
+      "paper_count": 8
+    },
+    {
+      "institution": "University of Geneva",
+      "collaborator_count": 8,
+      "paper_count": 16
+    },
+    {
+      "institution": "Argonne National Laboratory",
+      "collaborator_count": 5,
+      "paper_count": 12
+    },
+    {
+      "institution": "Nanjing University",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "University of Arkansas at Fayetteville",
+      "collaborator_count": 2,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 32,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 37,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 16,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 12,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 27,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 34,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 106
+    },
+    {
+      "country": "Other",
+      "count": 37
+    },
+    {
+      "country": "China",
+      "count": 1
+    }
+  ]
+}

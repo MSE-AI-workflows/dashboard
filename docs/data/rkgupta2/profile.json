@@ -1,0 +1,15 @@
+{
+  "unity_id": "rkgupta2",
+  "name": "Rajeev Gupta",
+  "first_name": "Rajeev",
+  "last_name": "Gupta",
+  "department": "Materials Science & Engineering",
+  "openalex_id": "https://openalex.org/A5003337195",
+  "stats": {
+    "total_publications": 130,
+    "recent_publications": 72,
+    "total_collaborators": 123,
+    "total_categories": 3,
+    "external_percentage": 81.3
+  }
+}

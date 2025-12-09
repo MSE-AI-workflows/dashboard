@@ -1,0 +1,271 @@
+{
+  "overview": {
+    "total_collaborators": 338,
+    "internal_count": 89,
+    "internal_percentage": 26.331360946745562,
+    "external_count": 249,
+    "external_percentage": 73.66863905325444,
+    "network_density": 0.055,
+    "recent_collaborations_2years": 15
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5108087773",
+      "name": "Ruipeng Li",
+      "institution": "Upton Hospital",
+      "node_type": "external",
+      "collaboration_count": 11,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5005934068",
+      "name": "Kasra Darabi",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 10,
+      "years": "2024,2023,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5054370604",
+      "name": "Thomas D. Anthopoulos",
+      "institution": "Kootenay Association for Science & Technology",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5102899247",
+      "name": "Tonghui Wang",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 10,
+      "years": "2024,2023,2022,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5060717781",
+      "name": "Harald Ade",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 9,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5006152931",
+      "name": "Boyu Guo",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 8,
+      "years": "2024,2023,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5012731755",
+      "name": "Masoud Ghasemi",
+      "institution": "Pennsylvania State University",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5062318322",
+      "name": "Detlef\u2010M. Smilgies",
+      "institution": "Cornell University",
+      "node_type": "external",
+      "collaboration_count": 8,
+      "years": "2024,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5027298708",
+      "name": "Ming\u2010Chun Tang",
+      "institution": "King Abdullah University of Science and Technology",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5035322337",
+      "name": "Laine Taussig",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2024,2023,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5043085954",
+      "name": "Dounya Barrit",
+      "institution": "Kootenay Association for Science & Technology",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5044872627",
+      "name": "Mihirsinh Chauhan",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2025,2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5083620651",
+      "name": "Boyu Guo",
+      "institution": "University of Colorado Boulder",
+      "node_type": "external",
+      "collaboration_count": 7,
+      "years": "2025,2024,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5100743704",
+      "name": "Taesoo Kim",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 7,
+      "years": "2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5084373488",
+      "name": "Franky So",
+      "institution": "North Carolina State University",
+      "node_type": "faculty",
+      "collaboration_count": 6,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5000760073",
+      "name": "Kenan G\u00fcndo\u011fdu",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2024,2023,2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5010346463",
+      "name": "Ahmad R. Kirmani",
+      "institution": "National Renewable Energy Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2022,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5020713265",
+      "name": "Rahim Munir",
+      "institution": "University of Calgary",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5053377236",
+      "name": "Michael D. McGehee",
+      "institution": "University of Colorado Boulder",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2023"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5063985024",
+      "name": "Gabriel R. McAndrews",
+      "institution": "University of Colorado Boulder",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2024,2023"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "King Abdullah University of Science and Technology",
+      "collaborator_count": 23,
+      "paper_count": 35
+    },
+    {
+      "institution": "University of Toronto",
+      "collaborator_count": 20,
+      "paper_count": 24
+    },
+    {
+      "institution": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+      "collaborator_count": 17,
+      "paper_count": 21
+    },
+    {
+      "institution": "Unknown",
+      "collaborator_count": 17,
+      "paper_count": 17
+    },
+    {
+      "institution": "Soochow University",
+      "collaborator_count": 13,
+      "paper_count": 13
+    },
+    {
+      "institution": "Shaanxi Normal University",
+      "collaborator_count": 12,
+      "paper_count": 18
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "collaborator_count": 10,
+      "paper_count": 22
+    },
+    {
+      "institution": "Imperial College London",
+      "collaborator_count": 8,
+      "paper_count": 8
+    },
+    {
+      "institution": "National Institute of Standards and Technology",
+      "collaborator_count": 7,
+      "paper_count": 7
+    },
+    {
+      "institution": "University of Colorado Boulder",
+      "collaborator_count": 6,
+      "paper_count": 14
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 105,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 88,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 103,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 83,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 91,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 29,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 249
+    },
+    {
+      "country": "Other",
+      "count": 87
+    },
+    {
+      "country": "China",
+      "count": 2
+    }
+  ]
+}

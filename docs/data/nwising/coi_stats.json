@@ -1,0 +1,271 @@
+{
+  "overview": {
+    "total_collaborators": 129,
+    "internal_count": 19,
+    "internal_percentage": 14.728682170542637,
+    "external_count": 110,
+    "external_percentage": 85.27131782945736,
+    "network_density": 0.101,
+    "recent_collaborations_2years": 10
+  },
+  "top_collaborators": [
+    {
+      "openalex_id": "https://openalex.org/A5033922371",
+      "name": "Wan\u2010Yu Tsai",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 12,
+      "years": "2024,2023,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5051182321",
+      "name": "Sabine M. Neumayer",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 10,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5040566890",
+      "name": "Veronica Augustyn",
+      "institution": "North Carolina State University",
+      "node_type": "faculty",
+      "collaboration_count": 6,
+      "years": "2024,2023,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5022931905",
+      "name": "Petro Maksymovych",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 6,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5053503462",
+      "name": "Huimin Qiao",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 5,
+      "years": "2025,2024"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5077906043",
+      "name": "Sokrates T. Pantelides",
+      "institution": "Vanderbilt University",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5084949021",
+      "name": "Stephen Jesse",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 5,
+      "years": "2025,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5013754182",
+      "name": "Michael A. Susner",
+      "institution": "Wright-Patterson Air Force Base",
+      "node_type": "external",
+      "collaboration_count": 4,
+      "years": "2025,2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5001834469",
+      "name": "Rama K. Vasudevan",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5113922859",
+      "name": "Shelby Boyd",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5064538774",
+      "name": "Andrew O\u2019Hara",
+      "institution": "Vanderbilt University",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5073078396",
+      "name": "Michael A. McGuire",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2022,2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5016306924",
+      "name": "Ruocun Wang",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2021,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5048552375",
+      "name": "Sergei V. Kalinin",
+      "institution": "University of Tennessee at Knoxville",
+      "node_type": "external",
+      "collaboration_count": 3,
+      "years": "2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5059522404",
+      "name": "Saeed Saeed",
+      "institution": "North Carolina State University",
+      "node_type": "ncsu_nonfaculty",
+      "collaboration_count": 3,
+      "years": "2023,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5047023011",
+      "name": "Liam Collins",
+      "institution": "Oak Ridge National Laboratory",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2025,2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5050740079",
+      "name": "Lane W. Martin",
+      "institution": "University of California, Berkeley",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2020"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5054772284",
+      "name": "Florian Hausen",
+      "institution": "Forschungszentrum J\u00fclich",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2024,2021"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5060595421",
+      "name": "Neus Domingo",
+      "institution": "Institut Catal\u00e0 de Nanoci\u00e8ncia i Nanotecnologia",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2025,2022"
+    },
+    {
+      "openalex_id": "https://openalex.org/A5031199152",
+      "name": "De\u2010en Jiang",
+      "institution": "University of California, Riverside",
+      "node_type": "external",
+      "collaboration_count": 2,
+      "years": "2021"
+    }
+  ],
+  "top_institutions": [
+    {
+      "institution": "Oak Ridge National Laboratory",
+      "collaborator_count": 22,
+      "paper_count": 47
+    },
+    {
+      "institution": "Vanderbilt University",
+      "collaborator_count": 10,
+      "paper_count": 16
+    },
+    {
+      "institution": "Drexel University",
+      "collaborator_count": 8,
+      "paper_count": 11
+    },
+    {
+      "institution": "Forschungszentrum J\u00fclich",
+      "collaborator_count": 5,
+      "paper_count": 6
+    },
+    {
+      "institution": "Argonne National Laboratory",
+      "collaborator_count": 4,
+      "paper_count": 9
+    },
+    {
+      "institution": "Purdue University West Lafayette",
+      "collaborator_count": 4,
+      "paper_count": 4
+    },
+    {
+      "institution": "Pennsylvania State University",
+      "collaborator_count": 4,
+      "paper_count": 6
+    },
+    {
+      "institution": "University of California, Riverside",
+      "collaborator_count": 3,
+      "paper_count": 5
+    },
+    {
+      "institution": "Institut Catal\u00e0 de Nanoci\u00e8ncia i Nanotecnologia",
+      "collaborator_count": 3,
+      "paper_count": 4
+    },
+    {
+      "institution": "Lawrence Berkeley National Laboratory",
+      "collaborator_count": 3,
+      "paper_count": 3
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2020,
+      "papers": 64,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2021,
+      "papers": 67,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2022,
+      "papers": 45,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2023,
+      "papers": 21,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2024,
+      "papers": 25,
+      "new_collaborators": 0
+    },
+    {
+      "year": 2025,
+      "papers": 28,
+      "new_collaborators": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "United States",
+      "count": 101
+    },
+    {
+      "country": "Other",
+      "count": 27
+    },
+    {
+      "country": "Japan",
+      "count": 1
+    }
+  ]
+}
