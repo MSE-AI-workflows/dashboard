@@ -175,13 +175,13 @@ header h1 {
 /* Charts */
 #categories-charts, #coi-charts {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
     gap: 30px;
     margin: 20px 0;
 }
 
 #categories-charts > div, #coi-charts > div {
-    min-height: 450px;
+    min-height: 550px;
     overflow: visible;
     width: 100%;
 }

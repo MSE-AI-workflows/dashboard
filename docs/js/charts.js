@@ -9,7 +9,7 @@ function createCategoryPieChart(data, elementId) {
     const div = document.createElement('div');
     div.id = elementId;
     div.style.width = '100%';
-    div.style.minWidth = '500px';
+    div.style.minWidth = '600px';
     container.appendChild(div);
 
     const labels = data.categories.map(c => formatCategoryName(c.category));
@@ -32,10 +32,6 @@ function createCategoryPieChart(data, elementId) {
                 width: 2
             }
         },
-        domain: {
-            x: [0.05, 0.95],
-            y: [0.05, 0.95]
-        },
         pull: [0, 0, 0, 0, 0, 0, 0, 0]
     }];
 
@@ -46,10 +42,11 @@ function createCategoryPieChart(data, elementId) {
             x: 0.5,
             xanchor: 'center'
         },
-        height: 500,
-        autosize: true,
+        height: 550,
+        width: 600,
+        autosize: false,
         showlegend: false,
-        margin: { l: 100, r: 100, t: 80, b: 80 },
+        margin: { l: 120, r: 120, t: 80, b: 80 },
         paper_bgcolor: 'white',
         plot_bgcolor: 'white'
     };
@@ -177,7 +174,7 @@ function createInternalExternalPie(data, elementId) {
     const div = document.createElement('div');
     div.id = elementId;
     div.style.width = '100%';
-    div.style.minWidth = '500px';
+    div.style.minWidth = '600px';
     container.appendChild(div);
 
     const overview = data.overview;
@@ -211,10 +208,11 @@ function createInternalExternalPie(data, elementId) {
             x: 0.5,
             xanchor: 'center'
         },
-        height: 500,
-        autosize: true,
+        height: 550,
+        width: 600,
+        autosize: false,
         showlegend: false,
-        margin: { l: 100, r: 100, t: 80, b: 80 },
+        margin: { l: 120, r: 120, t: 80, b: 80 },
         paper_bgcolor: 'white',
         plot_bgcolor: 'white'
     };
